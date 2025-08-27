@@ -1,0 +1,1865 @@
+[
+  
+  {
+    "id": 13,
+    "name": "نوت هارد كافر ٤ فواصل",
+    "price": 120.00,
+    "mainImageUrl": "https://i.postimg.cc/MH1QSyLD/IMG-20250816-WA0002.jpg",
+    "image2Url": "https://i.postimg.cc/h4mxTBGd/IMG-20250816-WA0003.jpg",
+    "image3Url": "https://i.postimg.cc/jdrfhFWk/IMG-20250816-WA0004.jpg",
+    "description": "نوت 120 ورقة، ورق نقي وخامة جميلة",
+    "colors": "—",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 14,
+    "name": "مج آيس كوفي إزاز",
+    "price": 35.00,
+    "mainImageUrl": "https://i.postimg.cc/wjqsCRQX/IMG-20250816-WA0007.jpg",
+    "image2Url": "https://i.postimg.cc/zB9kKscX/ice.jpg",
+    "image3Url": "https://i.postimg.cc/RhCBSmsD/IMG-20250816-WA0035.jpg",
+    "description": "مج إزاز مخصص للقهوة الباردة",
+    "colors": "—",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+    "id": 16,
+    "name": "قلم هايلايتر جزره",
+    "price": 15.00,
+    "mainImageUrl": "https://i.postimg.cc/zGxR8Dx9/IMG-20250816-WA0013.jpg",
+    "image2Url": "https://i.postimg.cc/zGxR8Dx9/IMG-20250816-WA0013.jpg",
+    "image3Url": "https://i.postimg.cc/zGxR8Dx9/IMG-20250816-WA0013.jpg",
+    "description": "أقلام تمييز بشكل جزر",
+    "colors": "اصفر-اخضر-بينك-اورنج",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 17,
+    "name": "نوت بوك حقيبة كيوت",
+    "price": 45.00,
+    "mainImageUrl": "https://i.postimg.cc/y8pW2QdK/IMG-20250816-WA0021.jpg",
+    "image2Url": "https://i.postimg.cc/PqBJ5CYF/IMG-20250816-WA0023.jpg",
+    "image3Url": "https://i.postimg.cc/KjbYtC9P/IMG-20250816-WA0024.jpg",
+    "description": "نوت بوك 60 ورقة مقاس 11×10.5 سم",
+    "colors": "—",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 18,
+    "name": "استيكي نوت",
+    "price": 25.00,
+    "mainImageUrl": "https://i.postimg.cc/PrtxJsvh/IMG-20250816-WA0027.jpg",
+    "image2Url": "https://i.postimg.cc/SRGxdV5w/IMG-20250816-WA0026.jpg",
+    "image3Url": "https://i.postimg.cc/26h6bCxj/IMG-20250816-WA0025.jpg",
+    "description": "استيكي نوت ناعم ولطيف",
+    "colors": "—",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 19,
+    "name": "نوت جليتر لامعة",
+    "price": 45.00,
+    "mainImageUrl": "https://i.postimg.cc/wx5M9Tv0/IMG-20250816-WA0028.jpg",
+    "image2Url": "https://i.postimg.cc/bwrw0xRB/IMG-20250816-WA0029.jpg",
+    "image3Url": "https://i.postimg.cc/9FJfq8y9/IMG-20250816-WA0030.jpg",
+    "description": "نوت كبيرة حجم 80 ورقة جليتر لامعة",
+    "colors": "—",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 20,
+    "name": "تودو ليست 60 ورقة",
+    "price": 65.00,
+    "mainImageUrl": "https://i.postimg.cc/pTfWVq2p/IMG-20250816-WA0031.jpg",
+    "image2Url": "https://i.postimg.cc/fT2wb3hj/IMG-20250816-WA0032.jpg",
+    "image3Url": "https://i.postimg.cc/CxRwnFhy/IMG-20250816-WA0033.jpg",
+    "description": "تودو ليست 60 ورقة متوفرة بأشكال بطوط واستيتش",
+    "colors": "—",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 21,
+    "name": "استيكي نوت وسط وكبير",
+    "price": 30.00,
+    "mainImageUrl": "https://i.postimg.cc/Vk0cLDgm/IMG-20250816-WA0037.jpg",
+    "image2Url": "https://i.postimg.cc/Vk0cLDgm/IMG-20250816-WA0037.jpg",
+    "image3Url": "https://i.postimg.cc/Vk0cLDgm/IMG-20250816-WA0037.jpg",
+    "description": "استيكي نوت وسط (30 ج) وكبير (35 ج)",
+    "colors": "—",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 22,
+    "name": "شيت فواصل طويل",
+    "price": 35.00,
+    "mainImageUrl": "https://i.postimg.cc/CKypZkrD/IMG-20250816-WA0038.jpg",
+    "image2Url": "https://i.postimg.cc/mkgvxwhx/IMG-20250816-WA0039.jpg",
+    "image3Url": "https://i.postimg.cc/PrNg22BY/IMG-20250816-WA0040.jpg",
+    "description": "فواصل طويلة لزقة بألوان وأشكال مختلفة، 3 أشكال = 100ج",
+    "colors": "—",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 23,
+    "name": "مج جلد شاليموه",
+    "price": 50.00,
+    "mainImageUrl": "https://i.postimg.cc/fTF6FYNF/IMG-20250816-WA0041.jpg",
+    "image2Url": "https://i.postimg.cc/HxpK52wJ/IMG-20250816-WA0042.jpg",
+    "image3Url": "https://i.postimg.cc/FzzBCHnN/IMG-20250816-WA0043.jpg",
+    "description": "مج بجاكت جلدي قابل للطباعة متوفر بجميع الألوان",
+    "colors": "متعدد",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+    "id": 24,
+    "name": "نوته جلد A6",
+    "price": 35.00,
+    "mainImageUrl": "https://i.postimg.cc/9M8x9jXS/IMG-20250816-WA0048.jpg",
+    "image2Url": "https://i.postimg.cc/Y9qnjS7Y/IMG-20250816-WA0047.jpg",
+    "image3Url": "https://i.postimg.cc/DzhYkgYC/IMG-20250816-WA0046.jpg",
+    "description": "نوته جلد مقاس A6 وسط",
+    "colors": "—",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 25,
+    "name": "قلم جاف سوستة ديزني",
+    "price": 15.00,
+    "mainImageUrl": "https://i.postimg.cc/ZnWwFDCq/IMG-20250816-WA0050.jpg",
+    "image2Url": "https://i.postimg.cc/90sJxt7Y/IMG-20250816-WA0049.jpg",
+    "image3Url": "https://i.postimg.cc/J4BTsgf6/IMG-20250816-WA0051.jpg",
+    "description": "قلم جاف ديزني بسوستة",
+    "colors": "—",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 26,
+    "name": "مج بورسلين وردات",
+    "price": 350.00,
+    "mainImageUrl": "https://i.postimg.cc/90HDJDfq/IMG-20250816-WA0016.jpg",
+    "image2Url": "https://i.postimg.cc/HLKc8ZDz/IMG-20250816-WA0014.jpg",
+    "image3Url": "https://i.postimg.cc/nzDs44nJ/IMG-20250816-WA0015.jpg",
+    "description": "مج بورسلين بتصميم وردات رقيقة يصلح للشرب والديكور",
+    "colors": "—",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+    "id": 27,
+    "name": "مفكرة العبادات",
+    "price": 55.00,
+    "mainImageUrl": "https://i.postimg.cc/7PSGbnB1/IMG-20250816-WA0018.jpg",
+    "image2Url": "https://i.postimg.cc/BQs8FPyr/IMG-20250816-WA0019.jpg",
+    "image3Url": "https://i.postimg.cc/L88nCKmv/IMG-20250816-WA0017.jpg",
+    "description": "مفكرة 50 ورقة لمتابعة الصلاة والسنن والأذكار",
+    "colors": "3 تصميمات",
+    "isAvailable": false,
+    "categoryId": 2
+  },
+  {
+    "id": 28,
+    "name": "منظم يومي استيتش/باندا",
+    "price": 60.00,
+    "mainImageUrl": "https://i.postimg.cc/s23K02vq/IMG-20250816-WA0055.jpg",
+    "image2Url": "https://i.postimg.cc/XNPH73zB/IMG-20250816-WA0052.jpg",
+    "image3Url": "https://i.postimg.cc/wj8wL2H6/IMG-20250816-WA0053.jpg",
+    "description": "منظم يومي 50 ورقة بسلكة جانبية بأشكال استيتش وباندا",
+    "colors": "—",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 29,
+    "name": "ألواح ودسر",
+    "price": 110.00,
+    "mainImageUrl": "https://i.postimg.cc/pTTCR1QB/IMG-20250816-WA0058.jpg",
+    "image2Url": "https://i.postimg.cc/w3KQ5qCW/IMG-20250816-WA0060.jpg",
+    "image3Url": "https://i.postimg.cc/VsSyF7yM/IMG-20250816-WA0061.jpg",
+    "description": "رواية للكاتب أحمد خيري العمري",
+    "colors": "—",
+    "isAvailable": true,
+    "categoryId": 1
+  },
+  {
+    "id": 30,
+    "name": "نوت وسط",
+    "price": 40.00,
+    "mainImageUrl": "https://i.postimg.cc/ry7BZScH/IMG-20250816-WA0062.jpg",
+    "image2Url": "https://i.postimg.cc/R0CyJdQW/IMG-20250816-WA0064.jpg",
+    "image3Url": "https://i.postimg.cc/52SDtTvc/IMG-20250816-WA0063.jpg",
+    "description": "نوت بوك وسط بآخر تصميمين",
+    "colors": "—",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 31,
+    "name": "خاتم تسبيح إلكتروني",
+    "price": 13.00,
+    "mainImageUrl": "https://i.postimg.cc/0Nt3YScc/IMG-20250816-WA0068.jpg",
+    "image2Url": "https://i.postimg.cc/0Nt3YScc/IMG-20250816-WA0068.jpg",
+    "image3Url": "https://i.postimg.cc/0Nt3YScc/IMG-20250816-WA0068.jpg",
+    "description": "خاتم تسبيح بزرار وعدد و زر Reset",
+    "colors": "—",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+    "id": 32,
+    "name": "رف متعدد الاستخدام",
+    "price": 125.00,
+    "mainImageUrl": "https://i.postimg.cc/G2V5NC0D/IMG-20250816-WA0070.jpg",
+    "image2Url": "https://i.postimg.cc/zXmQF8FZ/IMG-20250816-WA0071.jpg",
+    "image3Url": "https://i.postimg.cc/zDHMhVWF/IMG-20250816-WA0072.jpg",
+    "description": "رف بلاستيك عالي الجودة متوفر 3 دور و4 دور",
+    "colors": "بينك-ابيض",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 33,
+    "name": "ورق حائط لاصق",
+    "price": 55.00,
+    "mainImageUrl": "https://i.postimg.cc/Z5HDm3t4/IMG-20250816-WA0075.jpg",
+    "image2Url": "https://i.postimg.cc/tggv4TpP/IMG-20250816-WA0074.jpg",
+    "image3Url": "https://i.postimg.cc/bJ7mg9bH/IMG-20250816-WA0077.jpg",
+    "description": "ورق حائط لاصق مقاوم للماء مقاس 77×70 سم",
+    "colors": "أبيض",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 34,
+    "name": "مج شي إن",
+    "price": 220.00,
+    "mainImageUrl": "https://i.postimg.cc/28hgb7ns/Whats-App-Image-2025-08-24-at-04-01-46-d262c983.jpg",
+    "image2Url": "https://i.postimg.cc/3xhVg0Bd/Whats-App-Image-2025-08-24-at-04-01-53-4712fad9.jpg",
+    "image3Url": "https://i.postimg.cc/JzQgK76K/Whats-App-Image-2025-08-24-at-04-01-57-3770afd2.jpg",
+    "description": "مج بورسلين مستورد ترندي شي إن",
+    "colors": "متعدد",
+    "isAvailable": false,
+    "categoryId": 3
+  },
+  {
+    "id": 36,
+    "name": "ما لا يسع المسلم جهله",
+    "price": 120.00,
+    "mainImageUrl": "https://i.postimg.cc/RCwd9fKy/IMG-20250816-WA0086.jpg",
+    "image2Url": "https://i.postimg.cc/zX5jfBkB/IMG-20250816-WA0087.jpg",
+    "image3Url": "https://i.postimg.cc/DzWQNb7C/IMG-20250816-WA0089.jpg",
+    "description": "كتاب مبسط يشمل العقيدة والفقه والتزكية",
+    "colors": "—",
+    "isAvailable": true,
+    "categoryId": 1
+  },
+  {
+    "id": 37,
+    "name": "مغناطيس الأذكار",
+    "price": 40.00,
+    "mainImageUrl": "https://i.postimg.cc/XvTK67Jn/IMG-20250816-WA0092.jpg",
+    "image2Url": "https://i.postimg.cc/XvTK67Jn/IMG-20250816-WA0092.jpg",
+    "image3Url": "https://i.postimg.cc/fRPmYTYY/IMG-20250816-WA0093.jpg",
+    "description": "مغناطيس ثلاجة بأذكار وأدعية متنوعة (11 قطعة)",
+    "colors": "—",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+    "id": 38,
+    "name": "إضاءة USB أباجوره",
+    "price": 200.00,
+    "mainImageUrl": "https://i.postimg.cc/NFxRX6x0/IMG-20250816-WA0099.jpg",
+    "image2Url": "https://i.postimg.cc/c4sRSzst/IMG-20250816-WA0100.jpg",
+    "image3Url": "https://i.postimg.cc/KvJnv5zq/IMG-20250816-WA0101.jpg",
+    "description": " إضاءة 180 درجة بمستويات متعددة، مع أو بدون حامل USB دوارة",
+    "colors": "لبني-بينك-بيبي بلو",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 40,
+    "name": "بلاشر Sheglam",
+    "price": 315.00,
+    "mainImageUrl": "https://i.postimg.cc/PqZpZbXk/IMG-20250816-WA0112.jpg",
+    "image2Url": "https://i.postimg.cc/PqZpZbXk/IMG-20250816-WA0112.jpg",
+    "image3Url": "https://i.postimg.cc/FR4fxfzk/IMG-20250816-WA0111.jpg",
+    "description": "\n تنويه: نبيع للإستخدام داخل المنزل أو للمنتقبات🩷بلاشر ليكويد من Sheglam خفيف وسهل الدمج، 5.2ml",
+    "colors": "ألوان طبيعية",
+    "isAvailable": true,
+    "categoryId": 4
+  },
+  {
+    "id": 42,
+    "name": "مج بورسلين شي ان",
+    "price": 230.00,
+    "mainImageUrl": "https://i.postimg.cc/4xBbB7S0/Whats-App-Image-2025-08-17-at-04-31-33-b65e231d.jpg",
+    "image2Url": "https://i.postimg.cc/cJz7NqZM/Whats-App-Image-2025-08-17-at-04-31-33-c8775176.jpg",
+    "image3Url": "https://i.postimg.cc/VNv9Tsyk/Whats-App-Image-2025-08-17-at-04-32-09-8bfff9f4.jpg",
+    "description": "مج بورسلين شي ان مميز جدا",
+    "colors": "—",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+  "id": 43,
+  "name": "مج بورسلين وردي متدرج",
+  "price": 125.00,
+  "mainImageUrl": "https://i.postimg.cc/Kvs8fm5N/Whats-App-Image-2025-08-17-at-04-34-27-47d48540.jpg",
+  "image2Url": "https://i.postimg.cc/Kvs8fm5N/Whats-App-Image-2025-08-17-at-04-34-27-47d48540.jpg",
+  "image3Url": "https://i.postimg.cc/Kvs8fm5N/Whats-App-Image-2025-08-17-at-04-34-27-47d48540.jpg",
+  "description": "ابدأ يومك برشفة من الأناقة مع المج البورسلين الرائع ده! تصميمه الانسيابي بلون وردي متدرج بيضيف لمسة رقي على كل ركن في بيتك أو مكتبك 💖\n\n☕ المميزات:\n • سعة 380 مل تناسب الشاي، القهوة أو حتى العصائر\n • خامة بورسلين ممتازة تحافظ على حرارة مشروبك لفترة أطول\n • تصميم أنيق بملمس ناعم وقاعدة مريحة\n • خفيف الوزن (حوالي 323 جرام) وسهل الحمل والاستخدام اليومي\n • الأبعاد: 9 سم ارتفاع × 8.8 سم عرض × 12.5 سم مع اليد\n\n💡 مثالي لهدية أنيقة أو كإضافة شيك لمطبخك!\n\nخلي لحظتك اليومية مع الكوب ده مختلفة تمامًا 🌸☕",
+  "colors": "وردي متدرج",
+  "isAvailable": true,
+  "categoryId": 3
+},
+  {
+  "id": 44,
+  "name": "مج زجاج مربع بغطاء خشب وشاليموه",
+  "price": 80.00,
+  "mainImageUrl": "https://i.postimg.cc/Pq1fdYn3/Whats-App-Image-2025-08-17-at-04-38-40-2bece94e.jpg",
+  "image2Url": "https://i.postimg.cc/W3n2kV30/Whats-App-Image-2025-08-17-at-04-38-39-0ae4fc6e.jpg",
+  "image3Url": "https://i.postimg.cc/4yxXv07q/Whats-App-Image-2025-08-17-at-04-38-40-b69e1651.jpg",
+  "description": "مج غطا خشب مربع شفاف بالشاليموه 🌸\nكوب زجاج مربع بيد وشاليموه\nزجاج بيركس بغطاء خشب مستورد 💕\nبيستحمل حراره وبروده.\n\n✨ تصميم أنيق وعصري مثالي للمشروبات الباردة والساخنة.",
+  "colors": "شفاف مع غطاء خشب",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 45,
+  "name": "شاليمو مجات الايس كوفي",
+  "price": 15.00,
+  "mainImageUrl": "https://i.postimg.cc/R0TpMHkv/IMG-20250816-WA0044.jpg",
+  "image2Url": "https://i.postimg.cc/R0TpMHkv/IMG-20250816-WA0044.jpg",
+  "image3Url": "https://i.postimg.cc/J4yFbtkQ/IMG-20250816-WA0045.jpg",
+  "description": "شاليمو مجات الايس كوفي العصري 🌸\n\n💫 السعر:\n• الواحد بـ 15 جنيه فقط\n• الباكدج (مجموعة) بـ 57 جنيه\n\nخفيف، عملي، ومثالي للمشروبات الباردة زي الأيس كوفي والعصائر 🧋",
+  "colors": "شفاف",
+  "isAvailable": true,
+  "categoryId": 3
+},
+  {
+    "id": 46,
+    "name": "لانش بوكس عملي",
+    "price": 75.00,
+    "mainImageUrl": "https://i.postimg.cc/FHjj6PQr/Whats-App-Image-2025-08-17-at-20-18-57-c485afb6.jpg",
+    "image2Url": "https://i.postimg.cc/mrn2BGrj/Whats-App-Image-2025-08-17-at-20-18-57-9c7ba398.jpg",
+    "image3Url": "https://i.postimg.cc/P525VDsB/Whats-App-Image-2025-08-17-at-20-18-57-3c69743c.jpg",
+    "description": "لانش بوكس عملي جدا للجامعة والشغل وفرهدة طول النهار 🫶🏻\nدور واحد يعني مش هينفخ الشنطة 🌸",
+    "colors": "متعدد",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 47,
+    "name": "🌼 Mini Pocket Bag 🌼",
+    "price": 65.00,
+    "mainImageUrl": "https://i.postimg.cc/Zn8T8Bxs/Whats-App-Image-2025-08-17-at-20-27-59-ccefe658.jpg",
+    "image2Url": "https://i.postimg.cc/Zn8T8Bxs/Whats-App-Image-2025-08-17-at-20-27-59-ccefe658.jpg",
+    "image3Url": "https://i.postimg.cc/Zn8T8Bxs/Whats-App-Image-2025-08-17-at-20-27-59-ccefe658.jpg",
+    "description": "بوكيت عملي وخفيف 💕\nمناسب للخروج السريع أو إضافي جوه شنطتك الكبيرة ✨\nالطول 15 × العرض 11 سم\n\nصغنونه لكنها بتشيل: مفاتيح، فلوس، ملمع شفاه ومنديل بكل سهولة 🌸",
+    "colors": "ليمون",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+    "id": 48,
+    "name": "💜 Beauty Bag Purple 💜",
+    "price": 150.00,
+    "mainImageUrl": "https://i.postimg.cc/Gtd01Mvz/Whats-App-Image-2025-08-17-at-20-34-43-e4f5029a.jpg",
+    "image2Url": "https://i.postimg.cc/vZHQnmgX/Whats-App-Image-2025-08-17-at-20-34-43-74b6514a.jpg",
+    "image3Url": "https://i.postimg.cc/rm6XfymB/Whats-App-Image-2025-08-17-at-20-34-44-359ba5ba.jpg",
+    "description": "باوتش ميكب أنيقة وعملية ✨\nخامة مبطنة بتفاصيل ناعمة عشان تحافظ على مستحضراتك منظمة وجاهزة 👜\nمناسبة للسفر أو الاستخدام اليومي 💐",
+    "colors": "Purple",
+    "isAvailable": true,
+    "categoryId": 4
+  },
+  {
+    "id": 49,
+    "name": "مقلمة قطن مبطنة",
+    "price": 165.00,
+    "mainImageUrl": "https://i.postimg.cc/wMkrYZ82/Whats-App-Image-2025-08-17-at-20-38-20-a7a70386.jpg",
+    "image2Url": "https://i.postimg.cc/WzmBbtrM/Whats-App-Image-2025-08-17-at-20-38-20-e75e28b4.jpg",
+    "image3Url": "https://i.postimg.cc/sXpFqFGv/Whats-App-Image-2025-08-17-at-20-38-20-389582b9.jpg",
+    "description": "مقلمة قطن مبطنة ناعمة وأنيقة 😍\nمثالية للمدرسة، الجامعة أو المكتب ✨\nبتجمع بين العملية والشكل الكيوت 🌼",
+    "colors": "بلو فلاور / فرولة / ليمون",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+  "id": 50,
+  "name": "🪻 Garden Picnic Blanket 🪻",
+  "price": 285.00,
+  "mainImageUrl": "https://i.postimg.cc/cHN45G4b/Whats-App-Image-2025-08-17-at-21-21-48-ed88f550.jpg",
+  "image2Url": "https://i.postimg.cc/gjgzJwyC/Whats-App-Image-2025-08-17-at-21-21-51-63e4ebf2.jpg",
+  "image3Url": "https://i.postimg.cc/8k4Pw38Z/Whats-App-Image-2025-08-17-at-21-21-51-6a137760.jpg",
+  "description": "بطانية بيكنك أنيقة وعملية 🌿🧺✨\nخامة مريحة وسهلة الحمل 💕\nمناسبة للجنينة، البحر أو الكافيهات المفتوحة ✨\nخلي كل خروجة مليانة دفء وبهجة مع لمسة ستايل خاصة 🌸",
+  "colors": "أحمر / أزرق / بني / بينك",
+  "isAvailable": true,
+  "categoryId": 3
+  
+},
+  {
+  "id": 51,
+  "name": "☕🍳 مضرب 2×1 🍳☕",
+  "price": 195.00,
+  "mainImageUrl": "https://i.postimg.cc/qRXn1L02/Whats-App-Image-2025-08-17-at-21-42-13-d54cae71.jpg",
+  "image2Url": "https://i.postimg.cc/qRXn1L02/Whats-App-Image-2025-08-17-at-21-42-13-d54cae71.jpg",
+  "image3Url": "https://i.postimg.cc/qRXn1L02/Whats-App-Image-2025-08-17-at-21-42-13-d54cae71.jpg",
+  "description": "مضرب آيس كوفي وبيض عملي وخفيف ✨\nبيخلي قهوتك رغوة كريمية زي الكافيه 💕 وكمان بيساعدك في خفق البيض بكل سهولة وسرعة 🥚\nقطعة صغيرة لكن أساسية في مطبخك 👌",
+  "colors": "أسود / فضي",
+  "isAvailable": true,
+  "categoryId": 6
+},
+  {
+  "id": 52,
+  "name": "مقلمة مكتبة معدن شبكة مربعة ومدورة ✨",
+  "price": 40.00,
+  "mainImageUrl": "https://i.postimg.cc/gjghW2xJ/Whats-App-Image-2025-08-17-at-21-47-04-f01901be.jpg",
+  "image2Url": "https://i.postimg.cc/gjghW2xJ/Whats-App-Image-2025-08-17-at-21-47-04-f01901be.jpg",
+  "image3Url": "https://i.postimg.cc/FzrS8Ls8/Whats-App-Image-2025-08-17-at-21-47-04-d04f1c20.jpg",
+  "description": "مقلمة مكتبة أنيقة بخامة معدن شبكة ✨\nتصميم عملي (مربعة + مدورة) عشان يناسب كل الأذواق 💕\nمثالية للمكتب أو المدرسة عشان تخلي أدواتك منظمة وكيوت 😍",
+  "colors": "أسود / فضي",
+  "isAvailable": true,
+  "categoryId": 2
+},
+  {
+  "id": 53,
+  "name": "ما لا يسع أطفال المسلمين جهله",
+  "price": 80.00,
+  "mainImageUrl": "https://i.postimg.cc/4N2RqRxx/Whats-App-Image-2025-08-17-at-22-27-39-a8d7451d.jpg",
+  "image2Url": "https://i.postimg.cc/wxVp5mKJ/Whats-App-Image-2025-08-17-at-22-27-38-d43c47b0.jpg",
+  "image3Url": "https://i.postimg.cc/pL9MtcmY/Whats-App-Image-2025-08-17-at-22-27-39-08e7b2bd.jpg",
+  "description": "منهج يسير سهل متكامل في العقيدة والفقه والسيرة والآداب والتفسير والحديث والأخلاق والأذكار، يصلح للصبيان ولكافة الأعمار وحديثي الإسلام، ويُعطَى في البيوت والمحاضن ومعاهد التدريس، وللحفظ والشرح، وقد رتبتها على حسب الفنون، وجعلتها على طريقة السؤال والجواب؛ لأن ذلك أشحذ للذهن وأرسخ للحفظ، ويختار المربي منها ما يتناسب مع سنهم.\n✍️ تأليف: يزن الغانم",
+  "colors": "كتاب ورقي",
+  "isAvailable": true,
+  "categoryId": 1
+  },
+  {
+  "id": 54,
+  "name": "زيت زيتون نقي",
+  "price": 125.00,
+  "mainImageUrl": "https://i.postimg.cc/yxvbqDtW/Whats-App-Image-2025-08-18-at-22-57-18-5deea6a4.jpg",
+  "image2Url": "https://i.postimg.cc/yxvbqDtW/Whats-App-Image-2025-08-18-at-22-57-18-5deea6a4.jpg",
+  "image3Url": "https://i.postimg.cc/yxvbqDtW/Whats-App-Image-2025-08-18-at-22-57-18-5deea6a4.jpg",
+  "description": "زيت طبيعي 100% مستخلص بعناية من أجود حبات الزيتون البكر. غني بمضادات الأكسدة والفيتامينات، يعزز صحة القلب والجسم، مثالي للطبخ والسلطات والعناية بالبشرة والشعر.",
+  "colors": "",
+  "isAvailable": true,
+  "categoryId": 5
+},
+  {
+  "id": 55,
+  "name": "Scrub Gloves Double Face",
+  "price": 240.00,
+  "mainImageUrl": "https://i.postimg.cc/tTgLPXy0/Whats-App-Image-2025-08-17-at-16-42-02-ec9db924.jpg",
+  "image2Url": "https://i.postimg.cc/0yYR1WZ4/Whats-App-Image-2025-08-17-at-16-35-49-cc9e1524.jpg",
+  "image3Url": "https://i.postimg.cc/jjcpLDpQ/Whats-App-Image-2025-08-17-at-16-35-50-b1e902f4.jpg",
+  "description": "قفاز تقشير مبتكر للوجه والرقبة بوجهين: السطح الخشن لإزالة الخلايا الميتة وتجديد البشرة، والسطح الناعم لإزالة الدهون الزائدة وتلميع البشرة. يحتوي على أيونات الفضة لمنع البكتيريا وتقليل الالتهابات. يمنحك بشرة ناعمة ومشرقة مع عناية متكاملة.",
+  "colors": "🩷 وردي، 🤍 أبيض",
+  "isAvailable": true,
+  "categoryId": 4
+},
+  {
+  "id": 56,
+  "name": "مج بورسلين",
+  "price": 125.00,
+  "mainImageUrl": "https://i.postimg.cc/XJVQQ9T1/Whats-App-Image-2025-08-20-at-12-01-48-1fceaf12.jpg",
+  "image2Url": "https://i.postimg.cc/L55vM24z/Whats-App-Image-2025-08-20-at-12-01-48-d8680074.jpg",
+  "image3Url": "https://i.postimg.cc/4dBwMmGf/Whats-App-Image-2025-08-20-at-12-01-48-238e4147.jpg",
+  "description": "مج بورسلين شيك آوي وهادي، آخر قطعة متوفرة 🌸🧺. آمن للاستخدام في غسالة الصحون وسعره لطيف جدًا.",
+  "isAvailable": true,
+  "categoryId": 3
+  }
+  ,{
+  "id": 57,
+  "name": "استيكر مميز",
+  "price": 20.00,
+  "mainImageUrl": "https://i.postimg.cc/R0Vd9HBn/Whats-App-Image-2025-08-20-at-19-49-02-6f063639.jpg",
+  "image2Url": "https://i.postimg.cc/63FfdbGd/Whats-App-Image-2025-08-20-at-19-49-02-e42fb9cb.jpg",
+  "image3Url": "https://i.postimg.cc/rFdFZ8YG/Whats-App-Image-2025-08-21-at-03-45-47-3f3374fd.jpg",
+  "description": "✨ استيكر مميز بسعر خاص ✨\n\n- تصميم أنيق\n- جودة عالية للطباعة\n- مناسب للكتب، اللاب توب، والمزيد\n\nفقط بـ 20 ج.م ✨\nاطلبه الآن وخلي أغراضك تعبر عن شخصيتك 🌸",
+  "colors": "",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 58,
+  "name": "بوك مارك رقيق",
+  "price": 5.00,
+  "mainImageUrl": "https://i.postimg.cc/Yq6zW32W/Whats-App-Image-2025-08-20-at-19-55-10-30134e72.jpg",
+  "image2Url": "https://i.postimg.cc/TYMc1Sxx/Whats-App-Image-2025-08-20-at-19-55-10-374ccdc2.jpg",
+  "image3Url": "https://i.postimg.cc/nr7YTKvN/Whats-App-Image-2025-08-20-at-19-55-10-8d522d22.jpg",
+  "description": "✨ بوك مارك رقيق لمحبي القراءة ✨\nخلي مكانك في الكتاب دايمًا محفوظ 🥰\n\n✔️ عملي وخفيف\n✔️ تصميم جذاب\n\nالسعر: 5 ج.م فقط 📚",
+  "colors": "",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 59,
+  "name": "زجاجة رقمية كيوت",
+  "price": 80.00,
+  "mainImageUrl": "https://i.postimg.cc/jSv68S7q/Whats-App-Image-2025-08-20-at-23-28-06-a89050de.jpg",
+  "image2Url": "https://i.postimg.cc/rwqCCrzY/Whats-App-Image-2025-08-20-at-23-28-06-4952fe15.jpg",
+  "image3Url": "https://i.postimg.cc/PxvmrbFN/Whats-App-Image-2025-08-20-at-23-28-06-de20c298.jpg",
+  "description": "🌸🧺 زجاجة رقمية كيوت جدًا\n\nالسعر: 80 ج.م",
+  "colors": "",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 60,
+  "name": "زجاجة Hello Master",
+  "price": 85.00,
+  "mainImageUrl": "https://i.postimg.cc/sxp75jzr/Whats-App-Image-2025-08-20-at-23-34-11-6bde954e.jpg",
+  "image2Url": "https://i.postimg.cc/1zjGQ7BL/Whats-App-Image-2025-08-20-at-23-34-10-dee8337c.jpg",
+  "image3Url": "https://i.postimg.cc/1zjGQ7BL/Whats-App-Image-2025-08-20-at-23-34-10-dee8337c.jpg",
+  "description": "زجاجة Hello Master 🌸\n\n✔️ الخامة: إكليريك صحي عالي الجودة\n✔️ بدون رائحة\n✔️ شكل أنيق وانسيابي\n✔️ مزودة بيد سيليكون لحمل سهل\n\nالسعر: 85 ج.م",
+  "colors": "",
+  "isAvailable": false,
+  "categoryId": 2
+},
+{
+  "id": 61,
+  "name": "مج ترمس Lovely",
+  "price": 265.00,
+  "mainImageUrl": "https://i.postimg.cc/WzR0DDQ8/Whats-App-Image-2025-08-21-at-02-05-22-0b833ca8.jpg",
+  "image2Url": "https://i.postimg.cc/QN5p2bTy/Whats-App-Image-2025-08-21-at-02-05-22-0161406c.jpg",
+  "image3Url": "https://i.postimg.cc/wTQDvjF5/Whats-App-Image-2025-08-21-at-02-05-22-5a907aad.jpg",
+  "description": "مج ترمس Lovely 💖\n\n- ضد الانسكاب\n- يحفظ الحرارة لفترات طويلة\n- ستانلس من الداخل\n- السعة: حوالي 500 مل\n- مزود بعلاقة وشاليموه\n\nبسعر 265 ج.م",
+  "colors": "",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 62,
+  "name": "مخدة الرقبة للسفر",
+  "price": 270.00,
+  "mainImageUrl": "https://i.postimg.cc/9FhGC7PF/Whats-App-Image-2025-08-21-at-02-12-46-8a8f75f5.jpg",
+  "image2Url": "https://i.postimg.cc/3NNJT7rT/Whats-App-Image-2025-08-21-at-03-45-46-37855a43.jpg",
+  "image3Url": "https://i.postimg.cc/nVSh1sTc/Whats-App-Image-2025-08-21-at-03-45-46-37499733.jpg",
+  "description": "✨ مخدة الرقبة للسفر ✈️\n\n✔️ مريحة جدًا وطريّة 😍\n✔️ مثالية أثناء النوم في السفر 🚂💺\n✔️ تساعد على تخفيف ألم الرقبة\n\nالسعر: 270 ج.م ❤️",
+  "colors": "",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 63,
+  "name": "علبة مناديل شيك",
+  "price": 135.00,
+  "mainImageUrl": "https://i.postimg.cc/kGdtJ0bh/Whats-App-Image-2025-08-21-at-02-13-32-1c2fabc1.jpg",
+  "image2Url": "https://i.postimg.cc/KcnMqYXX/Whats-App-Image-2025-08-21-at-02-13-33-d660adae.jpg",
+  "image3Url": "https://i.postimg.cc/NfBrWwYK/Whats-App-Image-2025-08-21-at-02-13-34-491d9ed5.jpg",
+  "description": "علبة مناديل ❤️😍\n\n✔️ خامة ممتازة 👌\n✔️ سهلة الفك والتركيب 💯\n✔️ شكل شيك جدًا لغرف الأطفال أو أي مكان بالبيت 😍\n\nالسعر: 135 ج.م",
+  "colors": "",
+  "isAvailable": false,
+  "categoryId": 2
+},
+  {
+    "id": 64,
+    "name": "كتاب رسائل من النبي",
+    "price": 85.00,
+    "mainImageUrl": "https://i.postimg.cc/kGVrXg07/OIP-1.webp",
+    "image2Url": "https://i.postimg.cc/kGVrXg07/OIP-1.webp",
+    "image3Url": "https://i.postimg.cc/kGVrXg07/OIP-1.webp",
+    "description": "كتاب رسائل من النبي: تجميع لأجمل الأحاديث والرسائل النبوية.",
+    "colors": "__",
+    "isAvailable": true,
+    "categoryId": 1
+  },
+  {
+    "id": 65,
+    "name": "طقم ديسبنسر شاور 3*1",
+    "price": 17.5,
+    "mainImageUrl": "https://i.postimg.cc/htR3Fvv9/Whats-App-Image-2025-08-21-at-02-25-03-96337970.jpg",
+    "image2Url": "https://i.postimg.cc/xd0xCZK8/Whats-App-Image-2025-08-21-at-02-25-03-276a7b0b.jpg",
+    "image3Url": "https://i.postimg.cc/7Z1tq4Jj/Whats-App-Image-2025-08-21-at-02-25-03-390605d5.jpg",
+    "description": "طقم تقسيم🌸🧺✈ عبوة عملية للسفر والخروجات، تقسمي فيها كريماتك أو أي منتج كبير بكل سهولة 💕💰 السعر: للواحدة",
+    "colors": "متعدد",
+    "isAvailable": true,
+    "categoryId": 4
+  },
+  {
+    "id": 66,
+    "name": "ورق كب كيك زبدة",
+    "price": 15,
+    "mainImageUrl": "https://i.postimg.cc/KYJ9g5NN/Whats-App-Image-2025-08-21-at-02-29-40-51d55470.jpg",
+    "image2Url": "https://i.postimg.cc/KYJ9g5NN/Whats-App-Image-2025-08-21-at-02-29-40-51d55470.jpg",
+    "image3Url": "https://i.postimg.cc/Tw1tjWNX/Whats-App-Image-2025-08-21-at-02-29-41-961398a9.jpg",
+    "description": "ورق كب كيك زبدة بجودة عالية لتحضير الكب كيك والحلويات.",
+    "colors": "متعدد",
+    "isAvailable": true,
+    "categoryId": 6
+  },
+  {
+    "id": 67,
+    "name": "سفنجة سمايل متعددة الاستخدام",
+    "price": 15,
+    "mainImageUrl": "https://i.postimg.cc/LhKvMQ9H/Whats-App-Image-2025-08-21-at-02-31-23-11b94b59.jpg",
+    "image2Url": "https://i.postimg.cc/C5fJXpVP/Whats-App-Image-2025-08-21-at-02-31-22-0eaf845a.jpg",
+    "image3Url": "https://i.postimg.cc/2jsf6z35/Whats-App-Image-2025-08-21-at-02-31-23-611f7fd4.jpg",
+    "description": "سفنجه سمايل متعددة الأستخدام🌸🧺 يمكن استخدامها في تنظيف المواعين او استحمام الأطفال.. او تنظيف الوجه والبشره الحساسه",
+    "colors": "متعدد",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+    "id": 68,
+    "name": "إسفنجة سحرية",
+    "price": 15,
+    "mainImageUrl": "https://i.postimg.cc/6pwJrYrJ/Whats-App-Image-2025-08-21-at-02-32-31-0890cb76.jpg",
+    "image2Url": "https://i.postimg.cc/L4Yp2q97/Whats-App-Image-2025-08-21-at-02-32-31-8d4c4c5e.jpg",
+    "image3Url": "https://i.postimg.cc/gk3bLf6H/Whats-App-Image-2025-08-21-at-02-32-31-59eb4c9f.jpg",
+    "description": "اسفنجه سحريه☄تحفه جداااا عن تجربه بتشيل اي شخبطه🌸،لا غنى عنها في البيت علشان اطفالنا يتعلموا ينضفوا بعد ما يوسخوا 🧺وتستعمل مع الماء💦 فقط وبدون منظفات اضافيه🌿وتشيل آثار الأقلام 🖌🖍🖋بكل سهوله 🌱",
+    "colors": "__",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+    "id": 69,
+    "name": "شوكة فاكهة شيك",
+    "price": 15,
+    "mainImageUrl": "https://i.postimg.cc/yNYM5xpL/Whats-App-Image-2025-08-21-at-02-34-02-3ff61966.jpg",
+    "image2Url": "https://i.postimg.cc/zfts1N98/Whats-App-Image-2025-08-21-at-02-34-02-9c664698.jpg",
+    "image3Url": "https://i.postimg.cc/XY8MQdLZ/Whats-App-Image-2025-08-21-at-02-34-01-70e2b5c1.jpg",
+    "description": "شوكه فاكهه شيك جدا 🌸🧺 مستورده ⬅ بلاستيك بيور ⬅ متعدد الاستخدامات :لتناول الجبن والزلابيا والفواكه....الخ ⬅ متوفره بالوان واشكال الصور ",
+    "colors": "متعدد",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+    "id": 70,
+    "name": "مجموعة شوك فاكهة للأطفال",
+    "price": 5,
+    "mainImageUrl": "https://i.postimg.cc/gkV128fM/Whats-App-Image-2025-08-21-at-02-35-26-3318fdfc.jpg",
+    "image2Url": "https://i.postimg.cc/05JLhLZ1/Whats-App-Image-2025-08-21-at-02-35-26-0469b5a3.jpg",
+    "image3Url": "https://i.postimg.cc/YqKJ7byG/Whats-App-Image-2025-08-21-at-02-35-26-35b4c783.jpg",
+    "description": "مجموعه شوك فاكهه للاطفال 🦁🦕🦐  شوك فاكهة بلاستيك لتقديم الفاكهه بشكل مميز للاطفال والكبار 😍 باشكال حيوانات مبهجه 🦒🐢مناسبه لوضعها في اللانش بوكس",
+    "colors": "متعدد",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+    "id": 72,
+    "name": "باكيت خله اسنان بلاستيك 30 قطعه",
+    "price": 25.00,
+    "mainImageUrl": "https://i.postimg.cc/6pTVmNLd/Whats-App-Image-2025-08-21-at-02-39-30-7aff0c1c.jpg",
+    "image2Url": "https://i.postimg.cc/6pTVmNLd/Whats-App-Image-2025-08-21-at-02-39-30-7aff0c1c.jpg",
+    "image3Url": "https://i.postimg.cc/rFfCjpWV/Whats-App-Image-2025-08-21-at-02-39-30-72c75c5a.jpg",
+    "description": "باكيت خلة أسنان بلاستيك (30 قطعه) مستوردة.",
+    "colors": "__",
+    "isAvailable": true,
+    "categoryId": 4
+  },
+  {
+    "id": 73,
+    "name": "بوله غزاله بورسلين",
+    "price": 45.00,
+    "mainImageUrl": "https://i.postimg.cc/JhkNRcF0/Whats-App-Image-2025-08-21-at-02-41-42-9070bb95.jpg",
+    "image2Url": "https://i.postimg.cc/d1c83ZMB/Whats-App-Image-2025-08-21-at-02-41-43-6fb9e751.jpg",
+    "image3Url": "https://i.postimg.cc/wMQZYJSP/Whats-App-Image-2025-08-21-at-20-59-53-82614c44.jpg",
+    "description": "بولة غزالة من البورسلين الأنيق.",
+    "colors": "__",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+    "id": 74,
+    "name": "مغناطيس اشكال تلاجه - وسط",
+    "price": 20.00,
+    "mainImageUrl": "https://i.postimg.cc/VsRjsNKq/Whats-App-Image-2025-08-21-at-02-43-31-50dc60f4.jpg",
+    "image2Url": "https://i.postimg.cc/VsRjsNKq/Whats-App-Image-2025-08-21-at-02-43-31-50dc60f4.jpg",
+    "image3Url": "https://i.postimg.cc/hvpx2CXy/Whats-App-Image-2025-08-21-at-02-43-31-3cf81604.jpg",
+    "description": "مغناطيس أشكال للتلاجة، الحجم: وسط.",
+    "colors": "متعدد",
+    "isAvailable": true,
+    "categoryId": 6
+  },
+  {
+    "id": 75,
+    "name": "قالب تلج بلاستيك عيون سيليكون",
+    "price": 37.00,
+    "mainImageUrl": "https://i.postimg.cc/tCvWPMQ7/Whats-App-Image-2025-08-21-at-02-45-25-25b1455f.jpg",
+    "image2Url": "https://i.postimg.cc/5N28XMrZ/Whats-App-Image-2025-08-21-at-02-45-24-cf649123.jpg",
+    "image3Url": "https://i.postimg.cc/jjP7pqWJ/Whats-App-Image-2025-08-21-at-02-45-26-cb957be1.jpg",
+    "description": "قالب ثلج بلاستيك بعيون سيليكون.",
+    "colors": "شفاف",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+    "id": 76,
+    "name": "علبة مناديل فيونكه للمكتب",
+    "price": 65.00,
+    "mainImageUrl": "https://i.postimg.cc/FHfcxVNp/Whats-App-Image-2025-08-21-at-02-49-01-f1d10978.jpg",
+    "image2Url": "https://i.postimg.cc/dVzCNZ0Y/Whats-App-Image-2025-08-21-at-02-49-02-9e24b18a.jpg",
+    "image3Url": "https://i.postimg.cc/3RhvYMpf/Whats-App-Image-2025-08-21-at-02-49-02-536aa4de.jpg",
+    "description": "علبه مناديل  فيونكه رقيقه جداً🌸🧺علي شكل شنطهقطعه ديكوريه شيك جدا هتكمل أناقة الصالون و المكتب 💕مزوده بسوسته لسهوله اخراج المناديل",
+    "colors": "متعدد",
+    "isAvailable": false,
+    "categoryId": 2
+  },
+  {
+    "id": 77,
+    "name": "علبة فوط 20 قطعه",
+    "price": 59.00,
+    "mainImageUrl": "https://i.postimg.cc/W37J49wN/Whats-App-Image-2025-08-21-at-02-49-44-224e1f56.jpg",
+    "image2Url": "https://i.postimg.cc/W37J49wN/Whats-App-Image-2025-08-21-at-02-49-44-224e1f56.jpg",
+    "image3Url": "https://i.postimg.cc/W37J49wN/Whats-App-Image-2025-08-21-at-02-49-44-224e1f56.jpg",
+    "description": "علبة فوط (20 قطعه - مقاس 20×20 سم) قابلة للغسيل وإعادة الاستخدام.",
+    "colors": "أبيض",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+    "id": 78,
+    "name": "مجفف خضار من الوطنية",
+    "price": 135.00,
+    "mainImageUrl": "https://i.postimg.cc/Kjv33n0n/Whats-App-Image-2025-08-21-at-02-50-04-ce551099.jpg",
+    "image2Url": "https://i.postimg.cc/Kjv33n0n/Whats-App-Image-2025-08-21-at-02-50-04-ce551099.jpg",
+    "image3Url": "https://i.postimg.cc/Kjv33n0n/Whats-App-Image-2025-08-21-at-02-50-04-ce551099.jpg",
+    "description": "مجفف خضار من الوطنية لتجفيف الخضروات الورقية والسلطة بسهولة.",
+    "colors": "أبيض/أخضر",
+    "isAvailable": true,
+    "categoryId": 6
+  },
+  {
+    "id": 79,
+    "name": "حلة تحمير بطوط تيفال",
+    "price": 399.00,
+    "mainImageUrl": "https://i.postimg.cc/NGpHqz0b/Whats-App-Image-2025-08-21-at-02-51-39-923b6642.jpg",
+    "image2Url": "https://i.postimg.cc/zvtbCVQ4/Whats-App-Image-2025-08-21-at-02-51-39-c49da6af.jpg",
+    "image3Url": "https://i.postimg.cc/tCcn7nWx/Whats-App-Image-2025-08-21-at-02-51-40-1985cbe4.jpg",
+    "description": "حلة تحمير بطوط تيفال 3 لتـــر🧺 المكونات: حلة + غطاء زجاج حراري + باسكت شبك +  مقبض ستانليس🌸✨ لتحمير البطاطس 🍟و الفراخ 🍗 و الجمبري🍤🌿بعد الإنتهاء من التحمير يمكنك الضغط على ذراعي الباسكت لرفعه الى أعلى كما في الصورة لتصفية كل الزيت",
+    "colors": "__",
+    "isAvailable": true,
+    "categoryId": 6
+  },
+  {
+    "id": 80,
+    "name": "كيس جوانتي شفاف 100 قطعه",
+    "price": 25.00,
+    "mainImageUrl": "https://i.postimg.cc/KvjgZDkb/Whats-App-Image-2025-08-21-at-02-53-56-18b88c28.jpg",
+    "image2Url": "https://i.postimg.cc/Bv98BWhZ/Whats-App-Image-2025-08-21-at-02-53-56-ae0e8414.jpg",
+    "image3Url": "https://i.postimg.cc/xdvXss7v/Whats-App-Image-2025-08-21-at-02-53-57-ce6346fa.jpg",
+    "description": "كيس جوانتي شفاف (100 قطعه).",
+    "colors": "شفاف",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+    "id": 81,
+    "name": "مصفاه و مغرفه 2×1",
+    "price": 27.00,
+    "mainImageUrl": "https://i.postimg.cc/k4wBC27D/Whats-App-Image-2025-08-21-at-02-55-16-6b81b6ef.jpg",
+    "image2Url": "https://i.postimg.cc/1tyfbGhL/Whats-App-Image-2025-08-21-at-02-55-16-586ca4ce.jpg",
+    "image3Url": "https://i.postimg.cc/prTyLPdC/Whats-App-Image-2025-08-21-at-02-55-16-f7224a79.jpg",
+    "description": "مصفاه و مغرفه 2×1، تستخدم كبشة ومصفاه في نفس الوقت، خامه قش القمح الصحية.",
+    "colors": "بيج",
+    "isAvailable": true,
+    "categoryId": 6
+  },
+  {
+    "id": 82,
+    "name": "حامل موبايل اثناء الشحن ومنظم ريموت",
+    "price": 17.00,
+    "mainImageUrl": "https://i.postimg.cc/1XjXgbnQ/Whats-App-Image-2025-08-21-at-02-57-15-cd12f3fe.jpg",
+    "image2Url": "https://i.postimg.cc/FFW7nkPB/Whats-App-Image-2025-08-21-at-02-57-15-bfd57e24.jpg",
+    "image3Url": "https://i.postimg.cc/FFW7nkPB/Whats-App-Image-2025-08-21-at-02-57-15-bfd57e24.jpg",
+    "description": "حامل موبايل اثناء الشحن + منظم ريموت مزود ب لاصق دبل فيس قوي.",
+    "colors": "متعدد",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+    "id": 83,
+    "name": "مناديل مبللة شكل كانز",
+    "price": 45.00,
+    "mainImageUrl": "https://i.postimg.cc/0NsQJYQb/Whats-App-Image-2025-08-21-at-02-58-30-004f8651.jpg",
+    "image2Url": "https://i.postimg.cc/15b4yh10/Whats-App-Image-2025-08-21-at-02-58-29-a247d728.jpg",
+    "image3Url": "https://i.postimg.cc/PrCPGf9r/Whats-App-Image-2025-08-21-at-02-58-29-11f0986d.jpg",
+    "description": "🌸مناديل مبللة شكل كانز للمدارس  يمكن اعادة تعبئتها مرة اخرى شكلها كيوت اوي 👯وبتشليها معاكي في الشنطه👜 مش بتاخد مكان خالص 🍀بتفضل محافظه علي المناديل      مش بتنشف 💕",
+    "colors": "متعدد",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 84,
+    "name": "فرشة ميكب صابع سيليكون",
+    "price": 20.00,
+    "mainImageUrl": "https://i.postimg.cc/636pMBCK/Whats-App-Image-2025-08-21-at-02-59-14-e10bb07d.jpg",
+    "image2Url": "https://i.postimg.cc/636pMBCK/Whats-App-Image-2025-08-21-at-02-59-14-e10bb07d.jpg",
+    "image3Url": "https://i.postimg.cc/636pMBCK/Whats-App-Image-2025-08-21-at-02-59-14-e10bb07d.jpg",
+    "description": "فرشه ميكب صابع فرشة متعدده تقشير ✅+ تنضيف ✔+ إزالة الجلد الميت للبشرة✔لتنضيف البشره بعمق وتنضيف المسامات وازالة بقايا المكياج🌸ووجه سيليكون لإزاله الجلد الميت وآثار الحبوبخامة سيلكون ",
+    "colors": "متعدد",
+    "isAvailable": true,
+    "categoryId": 4
+  },
+  {
+    "id": 85,
+    "name": "قالب ثلج بالغطاء دورين",
+    "price": 69.00,
+    "mainImageUrl": "https://i.postimg.cc/kg8G4170/Whats-App-Image-2025-08-21-at-03-01-40-df3867f4.jpg",
+    "image2Url": "https://i.postimg.cc/kg8G4170/Whats-App-Image-2025-08-21-at-03-01-40-df3867f4.jpg",
+    "image3Url": "https://i.postimg.cc/mryr3PzV/Whats-App-Image-2025-08-21-at-03-01-41-506bcd43.jpg",
+    "description": "قالب ثلج بالغطاء جديد لمسه قالب ثلج بغطاء لكل الناس ال كنت عايز قالب ثلج بالغطا ❤من لمسه بلاست دورين كل دور يحتوى على 18 مكعب تلج اثنين مع بعضيعنى 36 مكعبالباكيت 2 قطعه ♻",
+    "colors": "شفاف",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+    "id": 86,
+    "name": "زجاجة مياه باندا شفاف",
+    "price": 65.00,
+    "mainImageUrl": "https://i.postimg.cc/tRmMmmzQ/Whats-App-Image-2025-08-24-at-03-46-08-d37d7734.jpg",
+    "image2Url": "https://i.postimg.cc/MKBdYBxy/Whats-App-Image-2025-08-21-at-03-07-11-20819051.jpg",
+    "image3Url": "https://i.postimg.cc/tRwBPk0q/Whats-App-Image-2025-08-21-at-03-07-11-a515f989.jpg",
+    "description": "زجاجة مياه باندا شفافة وعملية، خفيفة ومناسبة للاستخدام اليومي.",
+    "colors": "شفاف",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 87,
+    "name": "لانش بوكس ٢ دور مقسم",
+    "price": 95.00,
+    "mainImageUrl": "https://i.postimg.cc/Vs0HQqTv/Whats-App-Image-2025-08-25-at-08-20-27-9348abef.jpg",
+    "image2Url": "https://i.postimg.cc/Y0VDGhSq/Whats-App-Image-2025-08-24-at-03-48-36-bce2cc8e.jpg",
+    "image3Url": "https://i.postimg.cc/hvh3t9c5/Whats-App-Image-2025-08-24-at-03-48-49-b05fc966.jpg",
+    "description": "لانش بوكس ٢ دور مقسم 🌸محكم الغلق خامة صحيه عالي الجودة جميع الصور على الطبيعه ",
+    "colors": "متعدد",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+{
+  "id": 89,
+  "name": "كراسة متابعة القرآن الكريم (حجم كبير)",
+  "price": 30.00,
+  "mainImageUrl": "https://i.postimg.cc/0yTJMnWF/IMG-20250821-WA0103.jpg",
+  "image2Url": "https://i.postimg.cc/yN03FR2d/IMG-20250821-WA0104.jpg",
+  "image3Url": "https://i.postimg.cc/nhjDhgkq/IMG-20250821-WA0108.jpg",
+  "description": "📖 *كراسة متابعة القرآن الكريم* \nفي نهاية الكراسة شهادة تقدير مميزة 👏💫 \nتحفة للأطفال وتشجعهم على الحفظ والمتابعة ✨\n⏳ مدة الاستخدام: 5 شهور ونصف يوميًا 🤍\n\n💫 السعر: 30 جنيه (الحجم الكبير)",
+  "colors": "--",
+  "isAvailable": true,
+  "categoryId": 2
+},
+  {
+    "id": 90,
+    "name": "كتاب رسائل من القرآن",
+    "price": 80.00,
+    "mainImageUrl": "https://i.postimg.cc/BbRr8G3H/OIP.webp",
+    "image2Url": "https://i.postimg.cc/BbRr8G3H/OIP.webp",
+    "image3Url": "https://i.postimg.cc/BbRr8G3H/OIP.webp",
+    "description": "كتاب رسائل من القرآن: رحلة روحانية مع آيات مختارة من القرآن الكريم.",
+    "colors": "--",
+    "isAvailable": true,
+    "categoryId": 1
+  },
+  {
+    "id": 91,
+    "name": "زجاجه رقميه",
+    "price": 80.00,
+    "mainImageUrl": "https://i.postimg.cc/F15gXcRc/Whats-App-Image-2025-08-24-at-03-57-51-428edeeb.jpg",
+    "image2Url": "https://i.postimg.cc/F15gXcRc/Whats-App-Image-2025-08-24-at-03-57-51-428edeeb.jpg",
+    "image3Url": "https://i.postimg.cc/F15gXcRc/Whats-App-Image-2025-08-24-at-03-57-51-428edeeb.jpg",
+    "description": "زجاجه رقميه خفيفه و عمليه جدا",
+    "colors": "--",
+    "isAvailable": true,
+    "categoryId": 2
+  },
+  {
+    "id": 92,
+    "name": "أداه تدليك فروه الرأس",
+    "price": 40.00,
+    "mainImageUrl": "https://i.postimg.cc/L4qcRp56/Whats-App-Image-2025-08-24-at-04-00-54-de55ee84.jpg",
+    "image2Url": "https://i.postimg.cc/L4qcRp56/Whats-App-Image-2025-08-24-at-04-00-54-de55ee84.jpg",
+    "image3Url": "https://i.postimg.cc/L4qcRp56/Whats-App-Image-2025-08-24-at-04-00-54-de55ee84.jpg",
+    "description": "أداه تدليك فروه الرأس المساعده علي الاسترخاء و تنشيط بصيلات الشعر و توزيع الزيوت و السيرم بشكل صحيح لاستفاده فروه الرأس من الزيوت بطريقه جيده جدا ",
+    "colors": "--",
+    "isAvailable": true,
+    "categoryId": 4
+  },
+  {
+    "id": 93,
+    "name": "مج بورسلين  تريندي",
+    "price": 100.00,
+    "mainImageUrl": "https://i.postimg.cc/YqNf9pdN/IMG-20250824-WA0013.jpg",
+    "image2Url": "https://i.postimg.cc/YqNf9pdN/IMG-20250824-WA0013.jpg",
+    "image3Url": "https://i.postimg.cc/0210P602/IMG-20250824-WA0012.jpg",
+    "description": "مج بورسلين  تريندي 🌸يد بابلي حجم كبير 🧺 العدد محدود جدا و اختيار الشكل عشوائي",
+    "colors": "--",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+    "id": 94,
+    "name": "مج الفراشه البورسلين المستورد 🌸",
+    "price": 130.00,
+    "mainImageUrl": "https://i.postimg.cc/DZtdWmV6/IMG-20250824-WA0010.jpg",
+    "image2Url": "https://i.postimg.cc/TwyJYgsh/IMG-20250824-WA0009.jpg",
+    "image3Url": "https://i.postimg.cc/FKCx4DD2/IMG-20250824-WA0011.jpg",
+    "description": "مج الفراشه البورسلين المستورد 🌸أحلي مج  ومن المجات البيست سيلر",
+    "colors": "--",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+  {
+    "id": 95,
+    "name": "مج أشكال لوكس🌸",
+    "price": 75.00,
+    "mainImageUrl": "https://i.postimg.cc/1Rqrk06j/IMG-20250824-WA0008.jpg",
+    "image2Url": "https://i.postimg.cc/rsxG5cMk/IMG-20250824-WA0007.jpg",
+    "image3Url": "https://i.postimg.cc/rsxG5cMk/IMG-20250824-WA0007.jpg",
+    "description": "مج أشكال لوكس كيوت اوي 🩷🌸",
+    "colors": "--",
+    "isAvailable": true,
+    "categoryId": 3
+  },
+{
+  "id": 99,
+  "name": "زجاجة استانلس سيلفر",
+  "price": 180.00,
+  "mainImageUrl": "https://i.postimg.cc/15pC49yZ/Whats-App-Image-2025-08-25-at-08-23-58-c9781556.jpg",
+  "image2Url": "https://i.postimg.cc/NMSJ2FyQ/Whats-App-Image-2025-08-25-at-08-23-57-3d3ccb37.jpg",
+  "image3Url": "https://i.postimg.cc/cC3DRWYw/Whats-App-Image-2025-08-25-at-08-23-57-0c797bd2.jpg",
+  "description": "🥤 زجاجة استانلس سيلفر \n✅ مختومة 304 \n✅ استانلس أصلي \n",
+  "colors": "سيلفر",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 100,
+  "name": "قطاعة بيتزا Topchoic",
+  "price": 80.00,
+  "mainImageUrl": "https://i.postimg.cc/qRJwtnMf/IMG-20250825-WA0012.jpg",
+  "image2Url": "https://i.postimg.cc/fyFfgr7Z/IMG-20250825-WA0011.jpg",
+  "image3Url": "https://i.postimg.cc/xC6RLCcX/IMG-20250825-WA0013.jpg",
+  "description": "🍕 قطاعة بيتزا Topchoic \n✅ عجلة استانلس لوكس \n✅ مقاومة للصدأ \n✅ كواليتي عالية 💗 \n",
+  "colors": "__",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 101,
+  "name": "طقم مشابك معدن ملونة (10 قطع)",
+  "price": 25.00,
+  "mainImageUrl": "https://i.postimg.cc/Cx7cHmZP/Whats-App-Image-2025-08-25-at-08-29-19-3a0eb1d5.jpg",
+  "image2Url": "https://i.postimg.cc/Cx7cHmZP/Whats-App-Image-2025-08-25-at-08-29-19-3a0eb1d5.jpg",
+  "image3Url": "https://i.postimg.cc/P5T6wBqv/Whats-App-Image-2025-08-25-at-08-29-19-e5f55e63.jpg",
+  "description": "📎 طقم مشابك معدن ملونة 💕 \n➡️ باكت 10 مشابك \n➡️ خامة ممتازة فينش \n➡️ استخدامات متعددة (غسيل – أكياس – أوراق) 🔖 \n➡️ متين ومحكم الغلق \n",
+  "colors": "متعدد الألوان",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 102,
+  "name": "قرمة تقطيع خشب كبير",
+  "price": 85.00,
+  "mainImageUrl": "https://i.postimg.cc/MTMtww9N/Whats-App-Image-2025-08-25-at-08-31-34-be654266.jpg",
+  "image2Url": "https://i.postimg.cc/MTMtww9N/Whats-App-Image-2025-08-25-at-08-31-34-be654266.jpg",
+  "image3Url": "https://i.postimg.cc/HLP3Fn9b/Whats-App-Image-2025-08-25-at-08-31-34-80ac76cb.jpg",
+  "description": "🔪 قرمة تقطيع خشب كبيرة \n",
+  "colors": "خشب طبيعي",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 103,
+  "name": "مضرب ايكيا",
+  "price": 35.00,
+  "mainImageUrl": "https://i.postimg.cc/GpqY5frN/IMG-20250825-WA0022.jpg",
+  "image2Url": "https://i.postimg.cc/QCBp5J2z/IMG-20250825-WA0020.jpg",
+  "image3Url": "https://i.postimg.cc/7hpSNTDZ/IMG-20250825-WA0021.jpg",
+  "description": "🥄 مضرب ايكيا عملي \n✅ يتحمل الحرارة \n✅ مثالي للتيفال \n✅ كريمي جدًا للخليط \n➡️ استخدامات: بشاميل – كيك – بودينج – مهلبيه – عصير – ملوخية – باميه 🌸 \n",
+  "colors": "__",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 104,
+  "name": "بولا بلاستيك كبير",
+  "price": 35.00,
+  "mainImageUrl": "https://i.postimg.cc/G3DzSc8s/Whats-App-Image-2025-08-25-at-08-35-45-3f6a1828.jpg",
+  "image2Url": "https://i.postimg.cc/G3DzSc8s/Whats-App-Image-2025-08-25-at-08-35-45-3f6a1828.jpg",
+  "image3Url": "https://i.postimg.cc/G3DzSc8s/Whats-App-Image-2025-08-25-at-08-35-45-3f6a1828.jpg",
+  "description": "🥣 بولا بلاستيك كبير \n",
+  "colors": "__",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 105,
+  "name": "مصفاة بيد بلاستيك بيور",
+  "price": 30.00,
+  "mainImageUrl": "https://i.postimg.cc/pTwCXS7T/Whats-App-Image-2025-08-25-at-08-37-18-5d9bbef3.jpg",
+  "image2Url": "https://i.postimg.cc/pTwCXS7T/Whats-App-Image-2025-08-25-at-08-37-18-5d9bbef3.jpg",
+  "image3Url": "https://i.postimg.cc/pTwCXS7T/Whats-App-Image-2025-08-25-at-08-37-18-5d9bbef3.jpg",
+  "description": "🥗 مصفاة بيد بلاستيك بيور \n",
+  "colors": "__",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 106,
+  "name": "شيالة سيليكون عريضة لوكس",
+  "price": 45.00,
+  "mainImageUrl": "https://i.postimg.cc/C5bNZNT4/Whats-App-Image-2025-08-25-at-08-39-49-e9908446.jpg",
+  "image2Url": "https://i.postimg.cc/L6MDcrLQ/Whats-App-Image-2025-08-25-at-08-39-52-53d69b20.jpg",
+  "image3Url": "https://i.postimg.cc/L6MDcrLQ/Whats-App-Image-2025-08-25-at-08-39-52-53d69b20.jpg",
+  "description": "🍳 شيالة سيليكون عريضة لوكس \n",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 6
+},
+  {
+  "id": 107,
+  "name": "شيالة طعميه وبطاطس يد جلد",
+  "price": 50.00,
+  "mainImageUrl": "https://i.postimg.cc/PqySGp7q/IMG-20250825-WA0028.jpg",
+  "image2Url": "https://i.postimg.cc/PqySGp7q/IMG-20250825-WA0028.jpg",
+  "image3Url": "https://i.postimg.cc/PqySGp7q/IMG-20250825-WA0028.jpg",
+  "description": "شيالة عملية لتقديم الطعمية والبطاطس 🍟🍔\nبيد جلد أنيقة، قوية ومناسبة للاستخدام اليومي.\n\nالسعر: 50 جنيه",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 108,
+  "name": "طقم فوطه 5*1 مطبوعه",
+  "price": 35.00,
+  "mainImageUrl": "https://i.postimg.cc/qqhwCmvt/IMG-20250825-WA0031.jpg",
+  "image2Url": "https://i.postimg.cc/mD6VkxBf/IMG-20250825-WA0029.jpg",
+  "image3Url": "https://i.postimg.cc/V6NDzsyW/IMG-20250825-WA0030.jpg",
+  "description": "طقم فوط مطبخ 5 في 1 🏠💖\nمطبوعه بأشكال شيك وعملية للتنظيف.\n\nالسعر: 35 جنيه",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 109,
+  "name": "مصفي ارز استانلس استيل",
+  "price": 170.00,
+  "mainImageUrl": "https://i.postimg.cc/Hk4qxLNq/IMG-20250825-WA0033.jpg",
+  "image2Url": "https://i.postimg.cc/8c2Hdh7Z/IMG-20250825-WA0034.jpg",
+  "image3Url": "https://i.postimg.cc/W4NQJvLh/IMG-20250825-WA0032.jpg",
+  "description": "مصفاه شبكية استانلس ستيل 👌\nللغسل الدقيق للأرز، الخضروات والفواكه.\nمتوفر:\n- مقاس صغير: 170 جنيه\n- مقاس كبير: 190 جنيه",
+  "colors": "استنلس",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 110,
+  "name": "مفرش عجين كبير سيليكون",
+  "price": 70.00,
+  "mainImageUrl": "https://i.postimg.cc/RVfrkdLV/IMG-20250825-WA0035.jpg",
+  "image2Url": "https://i.postimg.cc/52Vcbzs5/IMG-20250825-WA0036.jpg",
+  "image3Url": "https://i.postimg.cc/wBwnXGgF/IMG-20250825-WA0037.jpg",
+  "description": "مفرش سيليكون كبير للعجين 🍞🥐\nمقاس 50×40 سم – مدرج بالسنتيمتر لسهولة الاستخدام.\nمقاوم للالتصاق وسهل التنظيف.\n\nالسعر: 70 جنيه",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 111,
+  "name": "صفايه حوض 2 يد بلاستيك",
+  "price": 140.00,
+  "mainImageUrl": "https://i.postimg.cc/qq3YdBnZ/IMG-20250825-WA0038.jpg",
+  "image2Url": "https://i.postimg.cc/tTfffn1x/IMG-20250825-WA0040.jpg",
+  "image3Url": "https://i.postimg.cc/vBDk3tmy/IMG-20250825-WA0039.jpg",
+  "description": "مصفاة حوض عملية ❤️\nبيدين متحركتين للتعليق على الحوض.\nمناسبة لتصفية الخضار، الفواكه أو المكرونة.\nقابلة للتوسيع حسب حجم الحوض.\n\nالسعر: 140 جنيه",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 112,
+  "name": "نوت جلد 200 ورقة",
+  "price": 75.00,
+  "mainImageUrl": "https://i.postimg.cc/G386DKNJ/IMG-20250825-WA0041.jpg",
+  "image2Url": "https://i.postimg.cc/G386DKNJ/IMG-20250825-WA0041.jpg",
+  "image3Url": "https://i.postimg.cc/J4jg6nRs/IMG-20250825-WA0042.jpg",
+  "description": "نوت جلد فاخرة 📒\n200 ورقة – خامة قوية وأنيقة.\nمناسبة للكتابة اليومية أو الهدايا.\n\nالسعر: 75 جنيه",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 113,
+  "name": "منظم الملابس 3 قطع شفاف",
+  "price": 85.00,
+  "mainImageUrl": "https://i.postimg.cc/7ZDRpkLm/IMG-20250825-WA0043.jpg",
+  "image2Url": "https://i.postimg.cc/7ZDRpkLm/IMG-20250825-WA0043.jpg",
+  "image3Url": "https://i.postimg.cc/7ZDRpkLm/IMG-20250825-WA0043.jpg",
+  "description": "منظم أدراج للملابس الداخلية 🧦\nطقم 3 قطع شفاف – قابل للطي.\nمثالي للجوارب، الأحزمة، الروابط.\n\nالسعر: 85 جنيه",
+  "colors": "شفاف",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 114,
+  "name": "قطاعة مخلل وبطاطس وخضروات جامبو",
+  "price": 75.00,
+  "mainImageUrl": "https://i.postimg.cc/T2zFJmv8/IMG-20250825-WA0044.jpg",
+  "image2Url": "https://i.postimg.cc/pdL6LJzj/IMG-20250825-WA0046.jpg",
+  "image3Url": "https://i.postimg.cc/9Qpk2nRV/IMG-20250825-WA0045.jpg",
+  "description": "قطاعة جامبو استنلس بيد خشب 💥\nمناسبة للمخلل، البطاطس والخضروات.\nخامة ثقيلة – مستوردة عالية الجودة.\n\nالسعر: 75 جنيه",
+  "colors": "استنلس",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 115,
+  "name": "حامل مناديل مطبخ مدهب ريشه",
+  "price": 100.00,
+  "mainImageUrl": "https://i.postimg.cc/pT9cDV0X/IMG-20250825-WA0047.jpg",
+  "image2Url": "https://i.postimg.cc/pT9cDV0X/IMG-20250825-WA0047.jpg",
+  "image3Url": "https://i.postimg.cc/pT9cDV0X/IMG-20250825-WA0047.jpg",
+  "description": "حامل مناديل أنيق 🪶\nتصميم ريشة باللون المدهب.\nمنتج عالي الجودة للمطابخ العصرية.\n\nالسعر: 100 جنيه",
+  "colors": "ذهبي",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 116,
+  "name": "طقم معلقة كوكتيل بشاليموه 7 قطع",
+  "price": 85.00,
+  "mainImageUrl": "https://i.postimg.cc/63DjzsSV/IMG-20250825-WA0050.jpg",
+  "image2Url": "https://i.postimg.cc/HWyPnxc6/IMG-20250825-WA0051.jpg",
+  "image3Url": "https://i.postimg.cc/bvVFDS9B/IMG-20250825-WA0049.jpg",
+  "description": "طقم 7 قطع (6 معالق شاليموه + فرشة تنظيف) 🥤\nمعلقة وشاليموه في نفس الوقت – مثالية للعصائر والفروت سلاط.\n\nالسعر: 85 جنيه",
+  "colors": "ذهبي",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 117,
+  "name": "طقم منظم رحلات 7 قطع",
+  "price": 85.00,
+  "mainImageUrl": "https://i.postimg.cc/sgwTqGqg/IMG-20250825-WA0054.jpg",
+  "image2Url": "https://i.postimg.cc/Dw2CxPCN/IMG-20250825-WA0055.jpg",
+  "image3Url": "https://i.postimg.cc/zfvxrXYS/IMG-20250825-WA0056.jpg",
+  "description": "طقم منظم رحلات عملي ✈️\nمكون من: 2 سبراي + 2 زجاجة + 1 ديسبنسر + 2 علبة صغيرة + شنطة شيك محكمة القفل.\n\nالسعر: 85 جنيه",
+  "colors": "شفاف",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 118,
+  "name": "طقم مصافي مربع 3*1",
+  "price": 70.00,
+  "mainImageUrl": "https://i.postimg.cc/430BNkJC/IMG-20250825-WA0057.jpg",
+  "image2Url": "https://i.postimg.cc/430BNkJC/IMG-20250825-WA0057.jpg",
+  "image3Url": "https://i.postimg.cc/430BNkJC/IMG-20250825-WA0057.jpg",
+  "description": "طقم مصافي بلاستيك مربع 3 في 1 ♻️\nمن مصنع لمسه – خامة بيور عالية الجودة.\nمتعدد الاستخدام لغسل الخضروات، الفاكهة وتصفيه الأرز.\n\nالسعر: 70 جنيه",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 119,
+  "name": "طقم قهوة زجاج 12 قطعة",
+  "price": 185.00,
+  "mainImageUrl": "https://i.postimg.cc/LXZvJCXJ/IMG-20250825-WA0058.jpg",
+  "image2Url": "https://i.postimg.cc/LXZvJCXJ/IMG-20250825-WA0058.jpg",
+  "image3Url": "https://i.postimg.cc/kG3sKQ6f/IMG-20250825-WA0059.jpg",
+  "description": "طقم قهوة زجاج أنيق ☕\nمكون من 6 فناجين + 6 أطباق.\nتصميم شيك وفاخر.\n\nالسعر: 185 جنيه",
+  "colors": "شفاف",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 120,
+  "name": "حامل سخن حصيرة",
+  "price": 35.00,
+  "mainImageUrl": "https://i.postimg.cc/4NGw31T3/IMG-20250825-WA0060.jpg",
+  "image2Url": "https://i.postimg.cc/4NGw31T3/IMG-20250825-WA0060.jpg",
+  "image3Url": "https://i.postimg.cc/4NGw31T3/IMG-20250825-WA0060.jpg",
+  "description": "حامل سخن (حصيرة) 🔥\nلحماية الأسطح من الحرارة.\nمقاوم وعالي الجودة.\n\nالسعر: 35 جنيه",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 3
+},
+  {
+  "id": 121,
+  "name": "شنطه الرحلات والمصايف",
+  "price": 49.00,
+  "mainImageUrl": "https://i.postimg.cc/6qr008Cw/IMG-20250825-WA0061.jpg",
+  "image2Url": "https://i.postimg.cc/6qr008Cw/IMG-20250825-WA0061.jpg",
+  "image3Url": "https://i.postimg.cc/pVzqx647/IMG-20250825-WA0062.jpg",
+  "description": "شنطه حراريه عملية لحفظ الطعام سخن أو بارد في الخروجات والمصايف 🧺🍱",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 122,
+  "name": "صفاية معالق استنلس ايكيا",
+  "price": 225.00,
+  "mainImageUrl": "https://i.postimg.cc/PrMyv8tQ/IMG-20250825-WA0063.jpg",
+  "image2Url": "https://i.postimg.cc/PrMyv8tQ/IMG-20250825-WA0063.jpg",
+  "image3Url": "https://i.postimg.cc/PrMyv8tQ/IMG-20250825-WA0063.jpg",
+  "description": "صفاية معالق استانلس ضد الصدأ من ايكيا، عملية وتنظيم رائع للمطبخ 🍴",
+  "colors": "استنلس",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 123,
+  "name": "ملاحه ميلامين ٢ عين",
+  "price": 17.00,
+  "mainImageUrl": "https://i.postimg.cc/nhck4crb/IMG-20250825-WA0064.jpg",
+  "image2Url": "https://i.postimg.cc/nhck4crb/IMG-20250825-WA0064.jpg",
+  "image3Url": "https://i.postimg.cc/nhck4crb/IMG-20250825-WA0064.jpg",
+  "description": "ملاحه ميلامين مزدوجة عملية للمطبخ 🌸",
+  "colors": "__",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 124,
+  "name": "عجلة نشابة عجين خشب",
+  "price": 45.00,
+  "mainImageUrl": "https://i.postimg.cc/xdB3VvRn/IMG-20250825-WA0065.jpg",
+  "image2Url": "https://i.postimg.cc/xdB3VvRn/IMG-20250825-WA0065.jpg",
+  "image3Url": "https://i.postimg.cc/xdB3VvRn/IMG-20250825-WA0065.jpg",
+  "description": "نشابة خشب عالية الجودة لتحضير المعجنات والخبز 🥖",
+  "colors": "خشب",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 125,
+  "name": "طقم دورق تقديم زجاج + 4 كوب",
+  "price": 150.00,
+  "mainImageUrl": "https://i.postimg.cc/Qt5k8F45/IMG-20250825-WA0066.jpg",
+  "image2Url": "https://i.postimg.cc/Qt5k8F45/IMG-20250825-WA0066.jpg",
+  "image3Url": "https://i.postimg.cc/cCS7rd2z/IMG-20250825-WA0067.jpg",
+  "description": "طقم زجاجي مع دورق بايركس بصفاية استنلس و4 أكواب بيد بلاستيك 🫖",
+  "colors": "شفاف",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 126,
+  "name": "مطحنة قهوة وتوابل استلس",
+  "price": 260.00,
+  "mainImageUrl": "https://i.postimg.cc/KjDPTdy8/IMG-20250825-WA0068.jpg",
+  "image2Url": "https://i.postimg.cc/Dy7dhyqJ/IMG-20250825-WA0070.jpg",
+  "image3Url": "https://i.postimg.cc/J7NcSBBC/IMG-20250825-WA0069.jpg",
+  "description": "مطحنة جبارة استلس 300 وات لمختلف الاستخدامات ☕",
+  "colors": "استنلس",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 127,
+  "name": "مضرب بيض كهرباء",
+  "price": 270.00,
+  "mainImageUrl": "https://i.postimg.cc/02ZGyRft/IMG-20250825-WA0071.jpg",
+  "image2Url": "https://i.postimg.cc/Gm2FB7gb/IMG-20250825-WA0072.jpg",
+  "image3Url": "https://i.postimg.cc/fRrxYc1m/IMG-20250825-WA0073.jpg",
+  "description": "مضرب بيض كهربائي محمول 5 سرعات للكيك والخلط 🍰",
+  "colors": "أبيض",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 128,
+  "name": "ميزان مطبخ استلس",
+  "price": 500.00,
+  "mainImageUrl": "https://i.postimg.cc/25LnGqfJ/IMG-20250825-WA0074.jpg",
+  "image2Url": "https://i.postimg.cc/25LnGqfJ/IMG-20250825-WA0074.jpg",
+  "image3Url": "https://i.postimg.cc/25LnGqfJ/IMG-20250825-WA0074.jpg",
+  "description": "ميزان كف استلس يسع 10 كيلو بجودة ممتازة ⚖️",
+  "colors": "استنلس",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 129,
+  "name": "حامل مجات استانلس",
+  "price": 40.00,
+  "mainImageUrl": "https://i.postimg.cc/Tw8g4RdP/IMG-20250825-WA0075.jpg",
+  "image2Url": "https://i.postimg.cc/fyDXMB0n/IMG-20250825-WA0076.jpg",
+  "image3Url": "https://i.postimg.cc/fyDXMB0n/IMG-20250825-WA0076.jpg",
+  "description": "حامل عملي 6 مجات يعلق داخل رف المطبخ بدون مسامير ☕",
+  "colors": "استنلس",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 130,
+  "name": "منظم بيض ٢ دور",
+  "price": 75.00,
+  "mainImageUrl": "https://i.postimg.cc/264hpPy7/IMG-20250825-WA0077.jpg",
+  "image2Url": "https://i.postimg.cc/264hpPy7/IMG-20250825-WA0077.jpg",
+  "image3Url": "https://i.postimg.cc/264hpPy7/IMG-20250825-WA0077.jpg",
+  "description": "علبة منظم بيض دورين عملية للمطبخ 🥚",
+  "colors": "شفاف",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 131,
+  "name": "شياله مكرونه استانلس",
+  "price": 50.00,
+  "mainImageUrl": "https://i.postimg.cc/J75ZpV91/IMG-20250825-WA0078.jpg",
+  "image2Url": "https://i.postimg.cc/J75ZpV91/IMG-20250825-WA0078.jpg",
+  "image3Url": "https://i.postimg.cc/J75ZpV91/IMG-20250825-WA0078.jpg",
+  "description": "شياله استانلس بيد خشب للمعكرونة والمعجنات 🍝",
+  "colors": "استنلس + خشب",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 132,
+  "name": "ترمس شاي ديجيتال كيتي",
+  "price": 125.00,
+  "mainImageUrl": "https://i.postimg.cc/8c4vcMhF/IMG-20250825-WA0079.jpg",
+  "image2Url": "https://i.postimg.cc/8c4vcMhF/IMG-20250825-WA0079.jpg",
+  "image3Url": "https://i.postimg.cc/8c4vcMhF/IMG-20250825-WA0079.jpg",
+  "description": "ترمس استانلس 304 بغطاء ديجيتال يوضح درجة الحرارة 🔥",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 3
+},
+  {
+  "id": 133,
+  "name": "أكياس حفظ الطعام بونيه باندا",
+  "price": 20.00,
+  "mainImageUrl": "https://i.postimg.cc/MKsR806N/IMG-20250825-WA0080.jpg",
+  "image2Url": "https://i.postimg.cc/qRd6Gjwh/IMG-20250825-WA0081.jpg",
+  "image3Url": "https://i.postimg.cc/qRd6Gjwh/IMG-20250825-WA0081.jpg",
+  "description": "أكياس بونيه طعام مستوردة، استرتش بتناسب معظم المقاسات، صحية وبتحافظ على الأكل والفواكه والخضروات طازجة 🐼",
+  "colors": "شفاف",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 134,
+  "name": "حافظ طعام ٤ دور",
+  "price": 250.00,
+  "mainImageUrl": "https://i.postimg.cc/nhCmVsMz/IMG-20250825-WA0083.jpg",
+  "image2Url": "https://i.postimg.cc/656RSbXC/IMG-20250825-WA0082.jpg",
+  "image3Url": "https://i.postimg.cc/132q89NK/IMG-20250825-WA0084.jpg",
+  "description": "عامود حفظ الطعام ٤ دور عملي ومتين، يحافظ على الأكل ساخن أو بارد لفترات طويلة، مثالي للمشاوير والرحلات 🍱",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 135,
+  "name": "منظم ميكب اكليرك دوار",
+  "price": 245.00,
+  "mainImageUrl": "https://i.postimg.cc/W36FYgY9/IMG-20250825-WA0086.jpg",
+  "image2Url": "https://i.postimg.cc/W36FYgY9/IMG-20250825-WA0086.jpg",
+  "image3Url": "https://i.postimg.cc/zXfbpLCj/IMG-20250825-WA0087.jpg",
+  "description": "منظم ميكب دوار ٣ دور بحجم جامبو، بيدور 360°، خامة أكريلك بيور، متعدد الاستخدام (مكياج، اكسسوارات، سناكس) 💄🦋",
+  "colors": "شفاف",
+  "isAvailable": true,
+  "categoryId": 4
+},
+{
+  "id": 136,
+  "name": "باسكت كتان قطيفة بيد جلد",
+  "price": 260.00,
+  "mainImageUrl": "https://i.postimg.cc/3x4y5Pb0/IMG-20250825-WA0089.jpg",
+  "image2Url": "https://i.postimg.cc/3x4y5Pb0/IMG-20250825-WA0089.jpg",
+  "image3Url": "https://i.postimg.cc/TYHysRQX/IMG-20250825-WA0088.jpg",
+  "description": "باسكت قطيفة + كتان قابل للطي بيد جلد، متعدد الاستخدام للملابس/الألعاب/الكتب 🧺🧸",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 137,
+  "name": "باسكت فيكتوريا بيد جلد",
+  "price": 255.00,
+  "mainImageUrl": "https://i.postimg.cc/jSpDsZGg/IMG-20250825-WA0090.jpg",
+  "image2Url": "https://i.postimg.cc/jSpDsZGg/IMG-20250825-WA0090.jpg",
+  "image3Url": "https://i.postimg.cc/jSpDsZGg/IMG-20250825-WA0090.jpg",
+  "description": "باسكت بلاستيك + سيليكون بيد جلد، عملي ومتعدد الاستخدام (ملابس/ألعاب/كتب) ✨",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 138,
+  "name": "قالب وافل سيليكون رباعي",
+  "price": 75.00,
+  "mainImageUrl": "https://i.postimg.cc/Y0C9XVW9/IMG-20250825-WA0093.jpg",
+  "image2Url": "https://i.postimg.cc/25nV3nYz/IMG-20250825-WA0091.jpg",
+  "image3Url": "https://i.postimg.cc/Jnq05mtv/IMG-20250825-WA0092.jpg",
+  "description": "قالب وافل سيليكون حراري كبير مقاس 27×18 سم، مقسم ٤ مربعات، مناسب للفرن والميكروويف 🧇",
+  "colors": "أحمر",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 139,
+  "name": "قالب دونتس سيليكون ٦ عين",
+  "price": 75.00,
+  "mainImageUrl": "https://i.postimg.cc/8cXCxHRb/IMG-20250825-WA0094.jpg",
+  "image2Url": "https://i.postimg.cc/8cXCxHRb/IMG-20250825-WA0094.jpg",
+  "image3Url": "https://i.postimg.cc/8kZsF12r/IMG-20250825-WA0095.jpg",
+  "description": "قالب دونتس سيليكون ٦ قطع حراري، يدخل الفرن والميكروويف 🍩",
+  "colors": "أحمر",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 140,
+  "name": "توزيع فرداني جرانيت لوكس",
+  "price": 65.00,
+  "mainImageUrl": "https://i.postimg.cc/65TqnkKb/IMG-20250825-WA0096.jpg",
+  "image2Url": "https://i.postimg.cc/65TqnkKb/IMG-20250825-WA0096.jpg",
+  "image3Url": "https://i.postimg.cc/65TqnkKb/IMG-20250825-WA0096.jpg",
+  "description": "ملاعق تقديم جرانيت فرداني (كبشة – مقصوصة – شيالة)، خامة كوالتي عالي الجودة 🍲",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 141,
+  "name": "طقم صواني كيك كليبس ٣ أشكال",
+  "price": 200.00,
+  "mainImageUrl": "https://i.postimg.cc/g2Z0B3nv/IMG-20250825-WA0097.jpg",
+  "image2Url": "https://i.postimg.cc/g2Z0B3nv/IMG-20250825-WA0097.jpg",
+  "image3Url": "https://i.postimg.cc/g2Z0B3nv/IMG-20250825-WA0097.jpg",
+  "description": "طقم صواني صاج تيفال كليبس (دائري + مربع + قلب)، مقاسات 24/26/28 سم، مثالي للتشيز كيك 🍰",
+  "colors": "أسود",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 142,
+  "name": "مج بايركس جود مورنينج",
+  "price": 60.00,
+  "mainImageUrl": "https://i.postimg.cc/fb7RMZ7y/IMG-20250825-WA0098.jpg",
+  "image2Url": "https://i.postimg.cc/fb7RMZ7y/IMG-20250825-WA0098.jpg",
+  "image3Url": "https://i.postimg.cc/NfVM4dfs/IMG-20250825-WA0099.jpg",
+  "description": "مج بايركس بيضاوي كبير مطبوع عليه Good Morning، عملي وجميل ☕",
+  "colors": "شفاف",
+  "isAvailable": true,
+  "categoryId": 3
+},
+  {
+  "id": 143,
+  "name": "قفل ثلاجه لوكس متعدد الاستخدام",
+  "price": 50.00,
+  "mainImageUrl": "https://i.postimg.cc/6QxQsTvF/IMG-20250825-WA0100.jpg",
+  "image2Url": "https://i.postimg.cc/d1qt1XnB/IMG-20250825-WA0101.jpg",
+  "image3Url": "https://i.postimg.cc/BZ7QSmFT/IMG-20250825-WA0102.jpg",
+  "description": "قفل قوي وعملي للثلاجة والدواليب والأدراج، خامة وجودة عالية، منتج مستورد بعلبة.",
+  "colors": "أبيض",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 144,
+  "name": "فواحه اتوماتيك H2O",
+  "price": 150.00,
+  "mainImageUrl": "https://i.postimg.cc/pTqVnZ6t/IMG-20250825-WA0103.jpg",
+  "image2Url": "https://i.postimg.cc/pTqVnZ6t/IMG-20250825-WA0103.jpg",
+  "image3Url": "https://i.postimg.cc/zvQJxfNt/IMG-20250825-WA0104.jpg",
+  "description": "فواحة اتوماتيك تعمل بكبل USB، تصميم عصري وعملي.",
+  "colors": "أبيض",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 145,
+  "name": "شماعة متعددة الاستخدامات ٨ خطافات",
+  "price": 38.00,
+  "mainImageUrl": "https://i.postimg.cc/MHH60QCf/IMG-20250825-WA0105.jpg",
+  "image2Url": "https://i.postimg.cc/RV3CNw1j/IMG-20250825-WA0106.jpg",
+  "image3Url": "https://i.postimg.cc/RV3CNw1j/IMG-20250825-WA0106.jpg",
+  "description": "شماعة عملية متعددة الاستخدام مزودة بـ 8 خطافات متينة.",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 146,
+  "name": "وافل ميكر ميني",
+  "price": 250.00,
+  "mainImageUrl": "https://i.postimg.cc/28Pkv323/IMG-20250825-WA0107.jpg",
+  "image2Url": "https://i.postimg.cc/28Pkv323/IMG-20250825-WA0107.jpg",
+  "image3Url": "https://i.postimg.cc/vZfQvMNh/IMG-20250825-WA0108.jpg",
+  "description": "ماكينة الوافل الأسهل على الإطلاق، خفيفة وسهلة الحمل في أي مكان، مستوردة وكواليتي عالي جداً.",
+  "colors": "أبيض",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 147,
+  "name": "مقلاية جرانيت مستوردة ٤ عين",
+  "price": 275.00,
+  "mainImageUrl": "https://i.postimg.cc/B6YsvvjS/IMG-20250825-WA0111.jpg",
+  "image2Url": "https://i.postimg.cc/d0FJHpMY/IMG-20250825-WA0109.jpg",
+  "image3Url": "https://i.postimg.cc/Y2PMKhc8/IMG-20250825-WA0110.jpg",
+  "description": "مقلاية جرانيت 4 عين عملية، خامة وجودة عالية جداً، عملية للاستخدام اليومي.",
+  "colors": "رمادي",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 148,
+  "name": "قطاعة بالمصفاية سيليكون قابلة للطي",
+  "price": 110.00,
+  "mainImageUrl": "https://i.postimg.cc/nrXx9tmv/IMG-20250825-WA0112.jpg",
+  "image2Url": "https://i.postimg.cc/nrXx9tmv/IMG-20250825-WA0112.jpg",
+  "image3Url": "https://i.postimg.cc/br4hQF04/IMG-20250825-WA0113.jpg",
+  "description": "قطاعة ومصفاة متعددة الاستخدام مصنوعة بالكامل من السيليكون، قابلة للطي وسهلة التخزين.",
+  "colors": "رمادي",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 149,
+  "name": "مساحة زجاج مدينتي",
+  "price": 65.00,
+  "mainImageUrl": "https://i.postimg.cc/y84Kxt8Z/IMG-20250825-WA0115.jpg",
+  "image2Url": "https://i.postimg.cc/9FqVWCC2/IMG-20250825-WA0114.jpg",
+  "image3Url": "https://i.postimg.cc/2SQDZG1X/IMG-20250825-WA0116.jpg",
+  "description": "مساحة متحركة بيد استانلس ستيل، للأرضيات والأسقف والزجاج، تدور 180 درجة، أصلية ومستوردة.",
+  "colors": "فضي",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 150,
+  "name": "مصفاة ومغرفة 2*1",
+  "price": 27.00,
+  "mainImageUrl": "https://i.postimg.cc/TwwMBXCZ/IMG-20250825-WA0117.jpg",
+  "image2Url": "https://i.postimg.cc/TwwMBXCZ/IMG-20250825-WA0117.jpg",
+  "image3Url": "https://i.postimg.cc/TwwMBXCZ/IMG-20250825-WA0117.jpg",
+  "description": "أداة 2*1 تستخدم كمغرفة ومصفاة في نفس الوقت، خامة قش القمح الصحية.",
+  "colors": "__",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 151,
+  "name": "حامل مكانس ومقشات فردي",
+  "price": 12.00,
+  "mainImageUrl": "https://i.postimg.cc/3w9QLwCX/IMG-20250825-WA0118.jpg",
+  "image2Url": "https://i.postimg.cc/k57dFS8M/IMG-20250825-WA0119.jpg",
+  "image3Url": "https://i.postimg.cc/k57dFS8M/IMG-20250825-WA0119.jpg",
+  "description": "حامل متعدد الاستخدام، يتم لصقه على الحائط وقابل للإزالة وإعادة الاستخدام بسهولة.",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 152,
+  "name": "طقم عجان بالمبشرة استانلس",
+  "price": 250.00,
+  "mainImageUrl": "https://i.postimg.cc/90w3FY3b/IMG-20250825-WA0121.jpg",
+  "image2Url": "https://i.postimg.cc/66FqVHQ9/IMG-20250825-WA0123.jpg",
+  "image3Url": "https://i.postimg.cc/FFY1LtNW/IMG-20250825-WA0122.jpg",
+  "description": "طقم استانلس مكون من 3 قطع: مصفاة، مبشرة بأربع أشكال مختلفة، وبولة كبيرة، مقاس 26.",
+  "colors": "فضي",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 153,
+  "name": "كبة ضغط يدوية 2 لتر",
+  "price": 150.00,
+  "mainImageUrl": "https://i.postimg.cc/wTJvwhtD/IMG-20250825-WA0125.jpg",
+  "image2Url": "https://i.postimg.cc/wTJvwhtD/IMG-20250825-WA0125.jpg",
+  "image3Url": "https://i.postimg.cc/7hFFCJwk/IMG-20250825-WA0124.jpg",
+  "description": "كبة ضغط يدوية لتقطيع وفرم البصل والخضار واللحوم، مزودة بقاعدة سيليكون ومضرب خفق، 4 سلاح مع زر أمان.",
+  "colors": "أبيض",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 154,
+  "name": "مج بورسلين ديزني طويل",
+  "price": 78.00,
+  "mainImageUrl": "https://i.postimg.cc/zGrf6VW6/IMG-20250825-WA0126.jpg",
+  "image2Url": "https://i.postimg.cc/zGrf6VW6/IMG-20250825-WA0126.jpg",
+  "image3Url": "https://i.postimg.cc/zGrf6VW6/IMG-20250825-WA0126.jpg",
+  "description": "مج بورسلين أنيق بتصميم ديزني، الحجم الطويل، مناسب للاستخدام اليومي.",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 155,
+  "name": "طقم بوله غزالة بورسلين 6 قطع",
+  "price": 270.00,
+  "mainImageUrl": "https://i.postimg.cc/6pfQXtf3/IMG-20250825-WA0127.jpg",
+  "image2Url": "https://i.postimg.cc/6pfQXtf3/IMG-20250825-WA0127.jpg",
+  "image3Url": "https://i.postimg.cc/6pfQXtf3/IMG-20250825-WA0127.jpg",
+  "description": "طقم بورسلين أنيق مكون من 6 بولات بتصميم الغزالة الفاخر.",
+  "colors": "أبيض",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 156,
+  "name": "طقم بولات بورسلين أندلسي 6 قطع",
+  "price": 275.00,
+  "mainImageUrl": "https://i.postimg.cc/s2fgfqTJ/IMG-20250825-WA0128.jpg",
+  "image2Url": "https://i.postimg.cc/s2fgfqTJ/IMG-20250825-WA0128.jpg",
+  "image3Url": "https://i.postimg.cc/s2fgfqTJ/IMG-20250825-WA0128.jpg",
+  "description": "طقم بولات بورسلين أندلسي 6 قطع، مقاس تقريبا 10 سم، تصميم فاخر.",
+  "colors": "أبيض",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 157,
+  "name": "باسكت ديكوريش 8.5 لتر",
+  "price": 187.00,
+  "mainImageUrl": "https://i.postimg.cc/9MrXZT5R/IMG-20250825-WA0129.jpg",
+  "image2Url": "https://i.postimg.cc/9MrXZT5R/IMG-20250825-WA0129.jpg",
+  "image3Url": "https://i.postimg.cc/cJD4vhjG/IMG-20250825-WA0130.jpg",
+  "description": "سلة مهملات ديكورية متعددة الاستخدامات بسعة 8.5 لتر، تصميم أنيق مع أرجل وغطاء خشبي بألوان (أبيض، أسود، بيج).",
+  "colors": "أبيض، أسود، بيج",
+  "isAvailable": true,
+  "categoryId": 3
+},
+{
+  "id": 158,
+  "name": "فوطة بديل سلك المواعين",
+  "price": 10.00,
+  "mainImageUrl": "https://i.postimg.cc/c4q1trDC/IMG-20250825-WA0132.jpg",
+  "image2Url": "https://i.postimg.cc/C1BYzgkb/IMG-20250825-WA0133.jpg",
+  "image3Url": "https://i.postimg.cc/59QNtwSD/IMG-20250825-WA0131.jpg",
+  "description": "فوطة مطبخ عبقرية بديل سلك المواعين، تنظف بدون خدش أو صدأ، متعددة الاستخدام، المقاس 30*30.",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 6
+},
+{
+  "id": 159,
+  "name": "ميني دباسة باندا للأطفال",
+  "price": 60.00,
+  "mainImageUrl": "https://i.postimg.cc/3Rf8xCwb/IMG-20250827-000153-198.jpg",
+  "image2Url": "https://i.postimg.cc/WbkNsZcX/IMG-20250827-000153-887.jpg",
+  "image3Url": "https://i.postimg.cc/vm3M0L5H/IMG-20250827-000153-976.jpg",
+  "description": "ميني دباسة بشكل باندا وألوان باستل تحفة 🩷🩶💜💙 تدبس لحد 20 ورقة، عملية ومناسبة للأطفال والكبار 🐼",
+  "colors": "4 ألوان باستل",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 160,
+  "name": "أقلام جل سوسته",
+  "price": 115.00,
+  "mainImageUrl": "https://i.postimg.cc/85cG9Jbd/IMG-20250827-000158-852.jpg",
+  "image2Url": "https://i.postimg.cc/hjYnBDCk/IMG-20250827-000159-000.jpg",
+  "image3Url": "https://i.postimg.cc/prnHVw4p/IMG-20250827-000159-011.jpg",
+  "description": "أقلام جل سوسته بمجموعتين (درجات بينك وبيبي بلو) 💙🩷 خط سلس، مريحة للكتابة اليومية، مقاس السن 5 مم. سعر الطقم 115ج، عرض خاص 2 بـ200 بدل 230.",
+  "colors": "بينك - بيبي بلو",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 161,
+  "name": "ترابيزة مذاكرة قابلة للطي",
+  "price": 225.00,
+  "mainImageUrl": "https://i.postimg.cc/R0FV5DSn/IMG-20250827-000207-676.jpg",
+  "image2Url": "https://i.postimg.cc/VvyYtsjj/IMG-20250827-000207-884.jpg",
+  "image3Url": "https://i.postimg.cc/fRWMmr0g/IMG-20250827-000208-612.jpg",
+  "description": "ترابيزة مذاكرة قابلة للطي بقوائم معدن 🤎 بخامة أفضل وألوان عصرية (بني، خشبي، بيج) عملية للمذاكرة في أي مكان.",
+  "colors": "بني - خشبي - بيج",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 162,
+  "name": "أقلام تحديد قابلة للمسح",
+  "price": 140.00,
+  "mainImageUrl": "https://i.postimg.cc/5yqMFB9V/IMG-20250827-000213-273.jpg",
+  "image2Url": "https://i.postimg.cc/QdMrHKR2/IMG-20250827-000213-616.jpg",
+  "image3Url": "https://i.postimg.cc/3RmsPXvv/IMG-20250827-000213-763.jpg",
+  "description": "أقلام تحديد فسفورية قابلة للمسح 🌷🩷 العبوة 6 ألوان واضحة وجميلة، خامة ممتازة ومبهجة.",
+  "colors": "6 ألوان فسفورية",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 163,
+  "name": "مقلمة شنطة متينة",
+  "price": 195.00,
+  "mainImageUrl": "https://i.postimg.cc/d39z0JnQ/IMG-20250827-000217-843.jpg",
+  "image2Url": "https://i.postimg.cc/GhcW5sh4/IMG-20250827-000217-850.jpg",
+  "image3Url": "https://i.postimg.cc/sXd89MND/IMG_20250827_000218_214.jpg",
+  "description": "مقلمة شنطة بخامة ممتازة ومتينة 🤎 تشيل أكتر من 50 قلم بدون مبالغة، عملية جدًا وأنيقة.",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 164,
+  "name": "أقلام أكريليك",
+  "price": 65.00,
+  "mainImageUrl": "https://i.postimg.cc/0j9BFLvT/IMG_20250827_000221_850.jpg",
+  "image2Url": "https://i.postimg.cc/zDkMKXS8/IMG_20250827_000222_023.jpg",
+  "image3Url": "https://i.postimg.cc/3xzbYy7C/IMG_20250827_000222_179.jpg",
+  "description": "أقلام أكريليك بخط سلس وناعم جدًا 🤎 الطقم 5 أقلام نفس اللون بدرجات مختلفة. متوفر بـ4 ألوان (أزرق، موف، أخضر، بينك).",
+  "colors": "أزرق - موف - أخضر - بينك",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 165,
+  "name": "أقلام شي إن باستل",
+  "price": 75.00,
+  "mainImageUrl": "https://i.postimg.cc/Kzxf8BWL/IMG_20250827_000226_357.jpg",
+  "image2Url": "https://i.postimg.cc/jjrQMyt9/IMG_20250827_000227_159.jpg",
+  "image3Url": "https://i.postimg.cc/3wCjVWww/IMG_20250827_000227_168.jpg",
+  "description": "أقلام شي إن بألوان باستل رائعة ومعها درجات غامقة كمان 🤎 خطهم تحفة وسعرهم أوفر من شي إن.",
+  "colors": "ألوان باستل + غامقة",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 166,
+  "name": "ساعة ديجيتال LED",
+  "price": 275.00,
+  "mainImageUrl": "https://i.postimg.cc/vmQx1hQQ/IMG_20250827_000231_645.jpg",
+  "image2Url": "https://i.postimg.cc/HLHXwHt1/IMG_20250827_000231_040.jpg",
+  "image3Url": "https://i.postimg.cc/DzBJ1GZ1/IMG_20250827_000231_455.jpg",
+  "description": "ساعة LED ديجيتال متعددة الوظائف: عرض الوقت (12/24)، التاريخ، الحرارة، منبه، إضاءة ليلية، 3 مستويات سطوع قابلة للتعديل. بتشتغل بكابل USB.",
+  "colors": "أبيض",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 167,
+  "name": "هايلايتر باستل",
+  "price": 87.00,
+  "mainImageUrl": "https://i.postimg.cc/sXLMNR5X/IMG_20250827_000236_857.jpg",
+  "image2Url": "https://i.postimg.cc/gj6x9BKK/IMG_20250827_000236_962.jpg",
+  "image3Url": "https://i.postimg.cc/pdGQR4DN/IMG_20250827_000237_556.jpg",
+  "description": "هايلايتر باستل خفيف على الورق وألوانه مريحة للعين والقلب 🎨💕 مناسب للمذاكرة اليومية.",
+  "colors": "ألوان باستل",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 168,
+  "name": "مفرش وتر بروف",
+  "price": 65.00,
+  "mainImageUrl": "https://i.postimg.cc/zXCnVVnF/IMG_20250827_000241_096.jpg",
+  "image2Url": "https://i.postimg.cc/90TyPfsV/IMG_20250827_000241_094.jpg",
+  "image3Url": "https://i.postimg.cc/nrvQjPQh/IMG_20250827_000241_613.jpg",
+  "description": "مفرش خفيف بخامة وتر بروف مقاس 130×180 سم. متوفر بـ5 ألوان (أبيض، رصاصي، أخضر، بيج، لون مميز).",
+  "colors": "أبيض - رصاصي - أخضر - بيج - لون مميز",
+  "isAvailable": true,
+  "categoryId": 2
+},
+  {
+  "id": 169,
+  "name": "منظم أكريلك 3 أقسام",
+  "price": 75.00,
+  "mainImageUrl": "https://i.postimg.cc/yNtJfHmN/IMG-20250827-000250-879.jpg",
+  "image2Url": "https://i.postimg.cc/mrtzNDFq/IMG-20250827-000250-443.jpg",
+  "image3Url": "https://i.postimg.cc/zGdHgW3K/IMG-20250827-000250-120.jpg",
+  "description": "منظم مكتبي شيك من الأكريلك، 3 أقسام بأطوال مختلفة + مكان للتليفون. متوفر بـ 4 ألوان (أبيض - منتجرين - لبني - وردي فاتح).",
+  "colors": "أبيض، منتجرين، لبني، وردي فاتح",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 170,
+  "name": "لمبة 3 مستويات إضاءة",
+  "price": 200.00,
+  "mainImageUrl": "https://i.postimg.cc/J4xGfJNv/IMG-20250827-000255-271.jpg",
+  "image2Url": "https://i.postimg.cc/jdtD3v7y/IMG-20250827-000254-880.jpg",
+  "image3Url": "https://i.postimg.cc/CxKzS1J1/IMG-20250827-000254-594.jpg",
+  "description": "لمبة مكتبية عملية بــ3 مستويات إضاءة تعمل باللمس (تاتش). مثالية للمذاكرة والمكتب.",
+  "colors": "متعدد",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 171,
+  "name": "لوحة ملاحظات 60×45 سم",
+  "price": 250.00,
+  "mainImageUrl": "https://i.postimg.cc/gJ30N6cM/IMG-20250827-000302-884.jpg",
+  "image2Url": "https://i.postimg.cc/rsJwLXrx/IMG-20250827-000302-922.jpg",
+  "image3Url": "https://i.postimg.cc/3wsRXZh4/IMG-20250827-000302-451.jpg",
+  "description": "لوحة ملاحظات مقاس 60×45 سم بخامة عالية وجهين + فريم معدن مع مكان للتعليق. مثالية للمكتب والدراسة.",
+  "colors": "أسود",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 172,
+  "name": "منظم ملفات معدني 3 دور",
+  "price": 275.00,
+  "mainImageUrl": "https://i.postimg.cc/bvtYw2nz/IMG-20250827-000309-894.jpg",
+  "image2Url": "https://i.postimg.cc/YqdCn7kw/IMG-20250827-000309-499.jpg",
+  "image3Url": "https://i.postimg.cc/y6XdR9bx/IMG-20250827-000309-231.jpg",
+  "description": "منظم ملفات وورق معدني 3 دور بخامة متينة ولون أسود أنيق. مناسب لترتيب المكتب.",
+  "colors": "أسود",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 173,
+  "name": "دفاتر بريمو من الأديب",
+  "price": 55.00,
+  "mainImageUrl": "https://i.postimg.cc/brvKdK5Q/IMG-20250827-000314-161.jpg",
+  "image2Url": "https://i.postimg.cc/Kzf6GZ0G/IMG-20250827-000314-151.jpg",
+  "image3Url": "https://i.postimg.cc/fLssWqZK/IMG-20250827-000313-551.jpg",
+  "description": "كوليشكن دفاتر بريمو من الأديب بتصميمات صيفية مبهجة. متوفر بمقاسات وعدد ورق مختلفة: 100 ورقة (A4) - 80 ورقة (55ج) - 60 ورقة (45ج).",
+  "colors": "تصميمات متنوعة",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 174,
+  "name": "أقلام سحرية قابلة للمسح",
+  "price": 20.00,
+  "mainImageUrl": "https://i.postimg.cc/T2kzB3yQ/IMG-20250827-000317-945.jpg",
+  "image2Url": "https://i.postimg.cc/hv3Nm2FN/IMG-20250827-000317-934.jpg",
+  "image3Url": "https://i.postimg.cc/Zn0MJ69H/IMG-20250827-000318-730.jpg",
+  "description": "أقلام سحرية بحبر قابل للمسح وخط سلس في الكتابة، مع أستيكة مدمجة تدوم طويلًا. تصميمات متعددة.",
+  "colors": "ألوان وتصميمات مختلفة",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 175,
+  "name": "طقم أقلام تزيين",
+  "price": 15.00,
+  "mainImageUrl": "https://i.postimg.cc/Dy9MKJ7Q/IMG-20250827-000322-717.jpg",
+  "image2Url": "https://i.postimg.cc/WbFHK6cb/IMG-20250827-000322-514.jpg",
+  "image3Url": "https://i.postimg.cc/zBzQPs89/IMG-20250827-000322-322.jpg",
+  "description": "طقم أقلام لمحبي التزيين وتحديد الدفاتر. 6 أقلام بتصميمات وألوان مختلفة.",
+  "colors": "ألوان مختلفة",
+  "isAvailable": true,
+  "categoryId": 2
+},
+{
+  "id": 176,
+  "name": "شبكة معدنية للتزيين 40×40 سم",
+  "price": 320.00,
+  "mainImageUrl": "https://i.postimg.cc/DwQBkxjF/IMG-20250827-000331-989.jpg",
+  "image2Url": "https://i.postimg.cc/6qGfHc2k/IMG-20250827-000332-671.jpg",
+  "image3Url": "https://i.postimg.cc/tRLK9m5V/IMG-20250827-000332-697.jpg",
+  "description": "شبكة معدنية لتزيين المكتب وتعليق الملاحظات. مقاس 40×40 سم متوفرة باللون الأبيض والأسود.",
+  "colors": "أبيض، أسود",
+  "isAvailable": true,
+  "categoryId": 2
+}
+
+
+]
