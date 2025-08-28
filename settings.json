@@ -11,13 +11,13 @@
     "https://i.postimg.cc/Mp6F0QKD/4165157.jpg",
     "https://i.postimg.cc/NfMX1GvX/5784303.jpg"
   ],
-  "bannerInterval": 2500,
-  "bannerAnimations": ["animate__fadeIn", "animate__slideInLeft", "animate__zoomIn"],
+  "bannerInterval": 4000,
+  "bannerAnimations": ["animate__fadeIn", "animate__fadeInUp", "animate__fadeInDown"],
   "whatsappNumber": "201050043254",
   "telegramBot": "https://t.me/Tranwjj?fbclid=PAQ0xDSwMMp9pleHRuA2FlbQIxMQABp1udY8nGzTDQLZZOErrybpzN0lPiTlmRZRRCDwX12d1kJbwrkaQ8Z6TYnKqA_aem_j7DZ_BTf54htFvxygFQbfg",
   "instagramUrl": "https://www.instagram.com/rawa80580?igsh=bWw1d3M0YTZmMmR1",
   "facebookUrl": "https://www.facebook.com/share/19zfjT4CwY/",
   "telegramGroupUrl": "https://t.me/Tranwjj",
   "currency": "EGP",
-  "cacheVersion": "2.0"
+  "cacheVersion": "2.2"
 }
